@@ -1,0 +1,302 @@
+{
+  "id": "sv",
+  "label": "スウェーデン語",
+  "nativeLabel": "Svenska",
+  "sttLocale": "sv-SE",
+  "ttsVoiceLang": "sv-SE",
+  "scenarios": {
+    "general": [
+      {
+        "id": "konbini",
+        "ja": "コンビニ",
+        "text": "närbutik"
+      },
+      {
+        "id": "takuhai",
+        "ja": "宅配便",
+        "text": "paketleverans"
+      },
+      {
+        "id": "mynumber",
+        "ja": "マイナンバー",
+        "text": "personnummer"
+      },
+      {
+        "id": "consumption-tax",
+        "ja": "消費税",
+        "text": "konsumtionsskatt"
+      }
+    ],
+    "medical": [
+      {
+        "id": "pressure-ulcer",
+        "ja": "褥瘡",
+        "text": "trycksår"
+      },
+      {
+        "id": "repositioning",
+        "ja": "体位変換",
+        "text": "lägesändring"
+      },
+      {
+        "id": "vital-signs",
+        "ja": "バイタルサイン",
+        "text": "vitalparametrar"
+      },
+      {
+        "id": "medication-check",
+        "ja": "服薬確認",
+        "text": "läkemedelskontroll"
+      },
+      {
+        "id": "spo2",
+        "ja": "SpO2",
+        "text": "syremättnad"
+      },
+      {
+        "id": "appetite-loss",
+        "ja": "食欲不振",
+        "text": "aptitlöshet"
+      },
+      {
+        "id": "blood-pressure",
+        "ja": "血圧",
+        "text": "blodtryck"
+      },
+      {
+        "id": "body-temperature",
+        "ja": "体温",
+        "text": "kroppstemperatur"
+      },
+      {
+        "id": "catheter",
+        "ja": "カテーテル",
+        "text": "kateter"
+      },
+      {
+        "id": "insulin",
+        "ja": "インスリン",
+        "text": "insulin"
+      },
+      {
+        "id": "antibiotic",
+        "ja": "抗菌薬",
+        "text": "antibiotika"
+      },
+      {
+        "id": "nurse-call",
+        "ja": "ナースコール",
+        "text": "sjuksköterskeknapp"
+      },
+      {
+        "id": "swallowing",
+        "ja": "嚥下",
+        "text": "sväljning"
+      },
+      {
+        "id": "aspiration",
+        "ja": "誤嚥",
+        "text": "aspiration"
+      },
+      {
+        "id": "sputum",
+        "ja": "喀痰",
+        "text": "sputum"
+      },
+      {
+        "id": "suction",
+        "ja": "吸引",
+        "text": "sugning"
+      },
+      {
+        "id": "dressing",
+        "ja": "ドレッシング",
+        "text": "sårförband"
+      },
+      {
+        "id": "care-required",
+        "ja": "要介護",
+        "text": "behöver omvårdnad"
+      },
+      {
+        "id": "support-required",
+        "ja": "要支援",
+        "text": "behöver stöd"
+      },
+      {
+        "id": "care-level",
+        "ja": "要介護認定",
+        "text": "biståndsbedömning"
+      },
+      {
+        "id": "day-service",
+        "ja": "デイサービス",
+        "text": "dagverksamhet"
+      },
+      {
+        "id": "care-manager",
+        "ja": "ケアマネ",
+        "text": "vårdkoordinator"
+      },
+      {
+        "id": "short-stay",
+        "ja": "ショートステイ",
+        "text": "korttidsboende"
+      },
+      {
+        "id": "medication-book",
+        "ja": "お薬手帳",
+        "text": "läkemedelslista"
+      },
+      {
+        "id": "history",
+        "ja": "既往歴",
+        "text": "sjukhistoria"
+      },
+      {
+        "id": "allergy",
+        "ja": "アレルギー",
+        "text": "allergi"
+      },
+      {
+        "id": "prescription",
+        "ja": "処方箋",
+        "text": "recept"
+      },
+      {
+        "id": "nrs",
+        "ja": "NRS",
+        "text": "smärtskattning"
+      }
+    ],
+    "business": [
+      {
+        "id": "quotation",
+        "ja": "見積書",
+        "text": "offert"
+      },
+      {
+        "id": "competitive-bid",
+        "ja": "相見積もり",
+        "text": "jämförande offert"
+      },
+      {
+        "id": "qualified-invoice",
+        "ja": "インボイス",
+        "text": "godkänd faktura"
+      },
+      {
+        "id": "invoice",
+        "ja": "請求書",
+        "text": "faktura"
+      },
+      {
+        "id": "delivery-date",
+        "ja": "納期",
+        "text": "leveransdatum"
+      },
+      {
+        "id": "nda",
+        "ja": "秘密保持契約",
+        "text": "sekretessavtal"
+      },
+      {
+        "id": "contract",
+        "ja": "契約書",
+        "text": "avtal"
+      },
+      {
+        "id": "purchase-order",
+        "ja": "発注書",
+        "text": "inköpsorder"
+      },
+      {
+        "id": "milestone",
+        "ja": "マイルストーン",
+        "text": "milstolpe"
+      },
+      {
+        "id": "specification",
+        "ja": "仕様書",
+        "text": "specifikation"
+      },
+      {
+        "id": "acceptance",
+        "ja": "検収",
+        "text": "godkännande"
+      },
+      {
+        "id": "unit-price",
+        "ja": "単価",
+        "text": "styckpris"
+      },
+      {
+        "id": "bank-transfer",
+        "ja": "振込",
+        "text": "banköverföring"
+      }
+    ],
+    "travel": [
+      {
+        "id": "otoshi",
+        "ja": "お通し",
+        "text": "sittavgift med förrätt"
+      },
+      {
+        "id": "limited-express",
+        "ja": "特急",
+        "text": "expresståg"
+      },
+      {
+        "id": "reserved-seat",
+        "ja": "指定席",
+        "text": "reserverad plats"
+      },
+      {
+        "id": "non-reserved",
+        "ja": "自由席",
+        "text": "oreserverad plats"
+      },
+      {
+        "id": "ticket-gate",
+        "ja": "改札",
+        "text": "biljettspärr"
+      },
+      {
+        "id": "one-way",
+        "ja": "片道",
+        "text": "enkel resa"
+      },
+      {
+        "id": "round-trip",
+        "ja": "往復",
+        "text": "tur och retur"
+      },
+      {
+        "id": "transfer",
+        "ja": "乗り換え",
+        "text": "byte"
+      },
+      {
+        "id": "private-room",
+        "ja": "個室",
+        "text": "eget rum"
+      },
+      {
+        "id": "non-smoking",
+        "ja": "禁煙",
+        "text": "rökfritt"
+      },
+      {
+        "id": "cold-water",
+        "ja": "お冷や",
+        "text": "gratis kallt vatten"
+      },
+      {
+        "id": "allergen-label",
+        "ja": "アレルギー表示",
+        "text": "allergeninformation"
+      }
+    ]
+  }
+}

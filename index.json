@@ -1,0 +1,288 @@
+{
+  "product": "whispershare",
+  "includedInApp": [
+    "ja",
+    "en"
+  ],
+  "packs": [
+    {
+      "id": "zh",
+      "label": "中国語",
+      "nativeLabel": "中文",
+      "sttLocale": "zh-CN",
+      "ttsVoiceLang": "zh-CN",
+      "file": "packs/zh.json",
+      "terms": 57
+    },
+    {
+      "id": "yue",
+      "label": "広東語",
+      "nativeLabel": "廣東話",
+      "sttLocale": "zh-HK",
+      "ttsVoiceLang": "zh-HK",
+      "file": "packs/yue.json",
+      "terms": 57
+    },
+    {
+      "id": "ko",
+      "label": "韓国語",
+      "nativeLabel": "한국어",
+      "sttLocale": "ko-KR",
+      "ttsVoiceLang": "ko-KR",
+      "file": "packs/ko.json",
+      "terms": 57
+    },
+    {
+      "id": "es",
+      "label": "スペイン語",
+      "nativeLabel": "Español",
+      "sttLocale": "es-ES",
+      "ttsVoiceLang": "es-ES",
+      "file": "packs/es.json",
+      "terms": 57
+    },
+    {
+      "id": "fr",
+      "label": "フランス語",
+      "nativeLabel": "Français",
+      "sttLocale": "fr-FR",
+      "ttsVoiceLang": "fr-FR",
+      "file": "packs/fr.json",
+      "terms": 57
+    },
+    {
+      "id": "vi",
+      "label": "ベトナム語",
+      "nativeLabel": "Tiếng Việt",
+      "sttLocale": "vi-VN",
+      "ttsVoiceLang": "vi-VN",
+      "file": "packs/vi.json",
+      "terms": 57
+    },
+    {
+      "id": "ar",
+      "label": "アラビア語",
+      "nativeLabel": "العربية",
+      "sttLocale": "ar-SA",
+      "ttsVoiceLang": "ar-SA",
+      "file": "packs/ar.json",
+      "terms": 57
+    },
+    {
+      "id": "ca",
+      "label": "カタルーニャ語",
+      "nativeLabel": "Català",
+      "sttLocale": "ca-ES",
+      "ttsVoiceLang": "ca-ES",
+      "file": "packs/ca.json",
+      "terms": 57
+    },
+    {
+      "id": "hr",
+      "label": "クロアチア語",
+      "nativeLabel": "Hrvatski",
+      "sttLocale": "hr-HR",
+      "ttsVoiceLang": "hr-HR",
+      "file": "packs/hr.json",
+      "terms": 57
+    },
+    {
+      "id": "cs",
+      "label": "チェコ語",
+      "nativeLabel": "Čeština",
+      "sttLocale": "cs-CZ",
+      "ttsVoiceLang": "cs-CZ",
+      "file": "packs/cs.json",
+      "terms": 57
+    },
+    {
+      "id": "da",
+      "label": "デンマーク語",
+      "nativeLabel": "Dansk",
+      "sttLocale": "da-DK",
+      "ttsVoiceLang": "da-DK",
+      "file": "packs/da.json",
+      "terms": 57
+    },
+    {
+      "id": "nl",
+      "label": "オランダ語",
+      "nativeLabel": "Nederlands",
+      "sttLocale": "nl-NL",
+      "ttsVoiceLang": "nl-NL",
+      "file": "packs/nl.json",
+      "terms": 57
+    },
+    {
+      "id": "fi",
+      "label": "フィンランド語",
+      "nativeLabel": "Suomi",
+      "sttLocale": "fi-FI",
+      "ttsVoiceLang": "fi-FI",
+      "file": "packs/fi.json",
+      "terms": 57
+    },
+    {
+      "id": "de",
+      "label": "ドイツ語",
+      "nativeLabel": "Deutsch",
+      "sttLocale": "de-DE",
+      "ttsVoiceLang": "de-DE",
+      "file": "packs/de.json",
+      "terms": 57
+    },
+    {
+      "id": "el",
+      "label": "ギリシャ語",
+      "nativeLabel": "Ελληνικά",
+      "sttLocale": "el-GR",
+      "ttsVoiceLang": "el-GR",
+      "file": "packs/el.json",
+      "terms": 57
+    },
+    {
+      "id": "he",
+      "label": "ヘブライ語",
+      "nativeLabel": "עברית",
+      "sttLocale": "he-IL",
+      "ttsVoiceLang": "he-IL",
+      "file": "packs/he.json",
+      "terms": 57
+    },
+    {
+      "id": "hi",
+      "label": "ヒンディー語",
+      "nativeLabel": "हिन्दी",
+      "sttLocale": "hi-IN",
+      "ttsVoiceLang": "hi-IN",
+      "file": "packs/hi.json",
+      "terms": 57
+    },
+    {
+      "id": "hu",
+      "label": "ハンガリー語",
+      "nativeLabel": "Magyar",
+      "sttLocale": "hu-HU",
+      "ttsVoiceLang": "hu-HU",
+      "file": "packs/hu.json",
+      "terms": 57
+    },
+    {
+      "id": "id",
+      "label": "インドネシア語",
+      "nativeLabel": "Bahasa Indonesia",
+      "sttLocale": "id-ID",
+      "ttsVoiceLang": "id-ID",
+      "file": "packs/id.json",
+      "terms": 57
+    },
+    {
+      "id": "it",
+      "label": "イタリア語",
+      "nativeLabel": "Italiano",
+      "sttLocale": "it-IT",
+      "ttsVoiceLang": "it-IT",
+      "file": "packs/it.json",
+      "terms": 57
+    },
+    {
+      "id": "ms",
+      "label": "マレー語",
+      "nativeLabel": "Bahasa Melayu",
+      "sttLocale": "ms-MY",
+      "ttsVoiceLang": "ms-MY",
+      "file": "packs/ms.json",
+      "terms": 57
+    },
+    {
+      "id": "nb",
+      "label": "ノルウェー語",
+      "nativeLabel": "Norsk bokmål",
+      "sttLocale": "nb-NO",
+      "ttsVoiceLang": "nb-NO",
+      "file": "packs/nb.json",
+      "terms": 57
+    },
+    {
+      "id": "pl",
+      "label": "ポーランド語",
+      "nativeLabel": "Polski",
+      "sttLocale": "pl-PL",
+      "ttsVoiceLang": "pl-PL",
+      "file": "packs/pl.json",
+      "terms": 57
+    },
+    {
+      "id": "pt",
+      "label": "ポルトガル語",
+      "nativeLabel": "Português",
+      "sttLocale": "pt-BR",
+      "ttsVoiceLang": "pt-BR",
+      "file": "packs/pt.json",
+      "terms": 57
+    },
+    {
+      "id": "ro",
+      "label": "ルーマニア語",
+      "nativeLabel": "Română",
+      "sttLocale": "ro-RO",
+      "ttsVoiceLang": "ro-RO",
+      "file": "packs/ro.json",
+      "terms": 57
+    },
+    {
+      "id": "ru",
+      "label": "ロシア語",
+      "nativeLabel": "Русский",
+      "sttLocale": "ru-RU",
+      "ttsVoiceLang": "ru-RU",
+      "file": "packs/ru.json",
+      "terms": 57
+    },
+    {
+      "id": "sk",
+      "label": "スロバキア語",
+      "nativeLabel": "Slovenčina",
+      "sttLocale": "sk-SK",
+      "ttsVoiceLang": "sk-SK",
+      "file": "packs/sk.json",
+      "terms": 57
+    },
+    {
+      "id": "sv",
+      "label": "スウェーデン語",
+      "nativeLabel": "Svenska",
+      "sttLocale": "sv-SE",
+      "ttsVoiceLang": "sv-SE",
+      "file": "packs/sv.json",
+      "terms": 57
+    },
+    {
+      "id": "th",
+      "label": "タイ語",
+      "nativeLabel": "ไทย",
+      "sttLocale": "th-TH",
+      "ttsVoiceLang": "th-TH",
+      "file": "packs/th.json",
+      "terms": 57
+    },
+    {
+      "id": "tr",
+      "label": "トルコ語",
+      "nativeLabel": "Türkçe",
+      "sttLocale": "tr-TR",
+      "ttsVoiceLang": "tr-TR",
+      "file": "packs/tr.json",
+      "terms": 57
+    },
+    {
+      "id": "uk",
+      "label": "ウクライナ語",
+      "nativeLabel": "Українська",
+      "sttLocale": "uk-UA",
+      "ttsVoiceLang": "uk-UA",
+      "file": "packs/uk.json",
+      "terms": 57
+    }
+  ]
+}

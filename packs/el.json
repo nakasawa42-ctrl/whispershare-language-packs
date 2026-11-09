@@ -1,0 +1,302 @@
+{
+  "id": "el",
+  "label": "ギリシャ語",
+  "nativeLabel": "Ελληνικά",
+  "sttLocale": "el-GR",
+  "ttsVoiceLang": "el-GR",
+  "scenarios": {
+    "general": [
+      {
+        "id": "konbini",
+        "ja": "コンビニ",
+        "text": "μίνι μάρκετ"
+      },
+      {
+        "id": "takuhai",
+        "ja": "宅配便",
+        "text": "παράδοση δέματος"
+      },
+      {
+        "id": "mynumber",
+        "ja": "マイナンバー",
+        "text": "προσωπικός αριθμός"
+      },
+      {
+        "id": "consumption-tax",
+        "ja": "消費税",
+        "text": "φόρος κατανάλωσης"
+      }
+    ],
+    "medical": [
+      {
+        "id": "pressure-ulcer",
+        "ja": "褥瘡",
+        "text": "έλκος πίεσης"
+      },
+      {
+        "id": "repositioning",
+        "ja": "体位変換",
+        "text": "αλλαγή θέσης"
+      },
+      {
+        "id": "vital-signs",
+        "ja": "バイタルサイン",
+        "text": "ζωτικά σημεία"
+      },
+      {
+        "id": "medication-check",
+        "ja": "服薬確認",
+        "text": "έλεγχος φαρμάκων"
+      },
+      {
+        "id": "spo2",
+        "ja": "SpO2",
+        "text": "κορεσμός οξυγόνου"
+      },
+      {
+        "id": "appetite-loss",
+        "ja": "食欲不振",
+        "text": "απώλεια όρεξης"
+      },
+      {
+        "id": "blood-pressure",
+        "ja": "血圧",
+        "text": "αρτηριακή πίεση"
+      },
+      {
+        "id": "body-temperature",
+        "ja": "体温",
+        "text": "θερμοκρασία σώματος"
+      },
+      {
+        "id": "catheter",
+        "ja": "カテーテル",
+        "text": "καθετήρας"
+      },
+      {
+        "id": "insulin",
+        "ja": "インスリン",
+        "text": "ινσουλίνη"
+      },
+      {
+        "id": "antibiotic",
+        "ja": "抗菌薬",
+        "text": "αντιβιοτικό"
+      },
+      {
+        "id": "nurse-call",
+        "ja": "ナースコール",
+        "text": "κλήση νοσηλευτή"
+      },
+      {
+        "id": "swallowing",
+        "ja": "嚥下",
+        "text": "κατάποση"
+      },
+      {
+        "id": "aspiration",
+        "ja": "誤嚥",
+        "text": "εισρόφηση"
+      },
+      {
+        "id": "sputum",
+        "ja": "喀痰",
+        "text": "πτύελα"
+      },
+      {
+        "id": "suction",
+        "ja": "吸引",
+        "text": "αναρρόφηση"
+      },
+      {
+        "id": "dressing",
+        "ja": "ドレッシング",
+        "text": "επίδεση τραύματος"
+      },
+      {
+        "id": "care-required",
+        "ja": "要介護",
+        "text": "χρειάζεται φροντίδα"
+      },
+      {
+        "id": "support-required",
+        "ja": "要支援",
+        "text": "χρειάζεται υποστήριξη"
+      },
+      {
+        "id": "care-level",
+        "ja": "要介護認定",
+        "text": "πιστοποίηση φροντίδας"
+      },
+      {
+        "id": "day-service",
+        "ja": "デイサービス",
+        "text": "ημερήσια φροντίδα"
+      },
+      {
+        "id": "care-manager",
+        "ja": "ケアマネ",
+        "text": "υπεύθυνος φροντίδας"
+      },
+      {
+        "id": "short-stay",
+        "ja": "ショートステイ",
+        "text": "σύντομη διαμονή"
+      },
+      {
+        "id": "medication-book",
+        "ja": "お薬手帳",
+        "text": "βιβλιάριο φαρμάκων"
+      },
+      {
+        "id": "history",
+        "ja": "既往歴",
+        "text": "ιστορικό"
+      },
+      {
+        "id": "allergy",
+        "ja": "アレルギー",
+        "text": "αλλεργία"
+      },
+      {
+        "id": "prescription",
+        "ja": "処方箋",
+        "text": "συνταγή"
+      },
+      {
+        "id": "nrs",
+        "ja": "NRS",
+        "text": "κλίμακα πόνου"
+      }
+    ],
+    "business": [
+      {
+        "id": "quotation",
+        "ja": "見積書",
+        "text": "προσφορά"
+      },
+      {
+        "id": "competitive-bid",
+        "ja": "相見積もり",
+        "text": "συγκριτική προσφορά"
+      },
+      {
+        "id": "qualified-invoice",
+        "ja": "インボイス",
+        "text": "έγκυρο τιμολόγιο"
+      },
+      {
+        "id": "invoice",
+        "ja": "請求書",
+        "text": "τιμολόγιο"
+      },
+      {
+        "id": "delivery-date",
+        "ja": "納期",
+        "text": "προθεσμία παράδοσης"
+      },
+      {
+        "id": "nda",
+        "ja": "秘密保持契約",
+        "text": "συμφωνία εχεμύθειας"
+      },
+      {
+        "id": "contract",
+        "ja": "契約書",
+        "text": "σύμβαση"
+      },
+      {
+        "id": "purchase-order",
+        "ja": "発注書",
+        "text": "παραγγελία"
+      },
+      {
+        "id": "milestone",
+        "ja": "マイルストーン",
+        "text": "ορόσημο"
+      },
+      {
+        "id": "specification",
+        "ja": "仕様書",
+        "text": "προδιαγραφές"
+      },
+      {
+        "id": "acceptance",
+        "ja": "検収",
+        "text": "παραλαβή"
+      },
+      {
+        "id": "unit-price",
+        "ja": "単価",
+        "text": "τιμή μονάδας"
+      },
+      {
+        "id": "bank-transfer",
+        "ja": "振込",
+        "text": "τραπεζικό έμβασμα"
+      }
+    ],
+    "travel": [
+      {
+        "id": "otoshi",
+        "ja": "お通し",
+        "text": "ορεκτικό με χρέωση θέσης"
+      },
+      {
+        "id": "limited-express",
+        "ja": "特急",
+        "text": "ταχεία"
+      },
+      {
+        "id": "reserved-seat",
+        "ja": "指定席",
+        "text": "κρατημένη θέση"
+      },
+      {
+        "id": "non-reserved",
+        "ja": "自由席",
+        "text": "ελεύθερη θέση"
+      },
+      {
+        "id": "ticket-gate",
+        "ja": "改札",
+        "text": "πύλη εισιτηρίων"
+      },
+      {
+        "id": "one-way",
+        "ja": "片道",
+        "text": "απλή μετάβαση"
+      },
+      {
+        "id": "round-trip",
+        "ja": "往復",
+        "text": "με επιστροφή"
+      },
+      {
+        "id": "transfer",
+        "ja": "乗り換え",
+        "text": "μετεπιβίβαση"
+      },
+      {
+        "id": "private-room",
+        "ja": "個室",
+        "text": "ιδιωτική αίθουσα"
+      },
+      {
+        "id": "non-smoking",
+        "ja": "禁煙",
+        "text": "απαγορεύεται το κάπνισμα"
+      },
+      {
+        "id": "cold-water",
+        "ja": "お冷や",
+        "text": "δωρεάν κρύο νερό"
+      },
+      {
+        "id": "allergen-label",
+        "ja": "アレルギー表示",
+        "text": "πληροφορίες αλλεργιογόνων"
+      }
+    ]
+  }
+}

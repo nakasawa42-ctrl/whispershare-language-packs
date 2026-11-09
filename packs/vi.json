@@ -1,0 +1,302 @@
+{
+  "id": "vi",
+  "label": "ベトナム語",
+  "nativeLabel": "Tiếng Việt",
+  "sttLocale": "vi-VN",
+  "ttsVoiceLang": "vi-VN",
+  "scenarios": {
+    "general": [
+      {
+        "id": "konbini",
+        "ja": "コンビニ",
+        "text": "cửa hàng tiện lợi"
+      },
+      {
+        "id": "takuhai",
+        "ja": "宅配便",
+        "text": "chuyển phát"
+      },
+      {
+        "id": "mynumber",
+        "ja": "マイナンバー",
+        "text": "mã số cá nhân"
+      },
+      {
+        "id": "consumption-tax",
+        "ja": "消費税",
+        "text": "thuế tiêu thụ"
+      }
+    ],
+    "medical": [
+      {
+        "id": "pressure-ulcer",
+        "ja": "褥瘡",
+        "text": "loét tì đè"
+      },
+      {
+        "id": "repositioning",
+        "ja": "体位変換",
+        "text": "thay đổi tư thế"
+      },
+      {
+        "id": "vital-signs",
+        "ja": "バイタルサイン",
+        "text": "dấu hiệu sinh tồn"
+      },
+      {
+        "id": "medication-check",
+        "ja": "服薬確認",
+        "text": "kiểm tra thuốc"
+      },
+      {
+        "id": "spo2",
+        "ja": "SpO2",
+        "text": "độ bão hòa oxy"
+      },
+      {
+        "id": "appetite-loss",
+        "ja": "食欲不振",
+        "text": "chán ăn"
+      },
+      {
+        "id": "blood-pressure",
+        "ja": "血圧",
+        "text": "huyết áp"
+      },
+      {
+        "id": "body-temperature",
+        "ja": "体温",
+        "text": "thân nhiệt"
+      },
+      {
+        "id": "catheter",
+        "ja": "カテーテル",
+        "text": "ống thông"
+      },
+      {
+        "id": "insulin",
+        "ja": "インスリン",
+        "text": "insulin"
+      },
+      {
+        "id": "antibiotic",
+        "ja": "抗菌薬",
+        "text": "kháng sinh"
+      },
+      {
+        "id": "nurse-call",
+        "ja": "ナースコール",
+        "text": "chuông gọi y tá"
+      },
+      {
+        "id": "swallowing",
+        "ja": "嚥下",
+        "text": "nuốt"
+      },
+      {
+        "id": "aspiration",
+        "ja": "誤嚥",
+        "text": "hít sặc"
+      },
+      {
+        "id": "sputum",
+        "ja": "喀痰",
+        "text": "đờm"
+      },
+      {
+        "id": "suction",
+        "ja": "吸引",
+        "text": "hút đờm"
+      },
+      {
+        "id": "dressing",
+        "ja": "ドレッシング",
+        "text": "băng gạc"
+      },
+      {
+        "id": "care-required",
+        "ja": "要介護",
+        "text": "cần chăm sóc"
+      },
+      {
+        "id": "support-required",
+        "ja": "要支援",
+        "text": "cần hỗ trợ"
+      },
+      {
+        "id": "care-level",
+        "ja": "要介護認定",
+        "text": "chứng nhận mức chăm sóc"
+      },
+      {
+        "id": "day-service",
+        "ja": "デイサービス",
+        "text": "chăm sóc ban ngày"
+      },
+      {
+        "id": "care-manager",
+        "ja": "ケアマネ",
+        "text": "quản lý chăm sóc"
+      },
+      {
+        "id": "short-stay",
+        "ja": "ショートステイ",
+        "text": "lưu trú ngắn ngày"
+      },
+      {
+        "id": "medication-book",
+        "ja": "お薬手帳",
+        "text": "sổ thuốc"
+      },
+      {
+        "id": "history",
+        "ja": "既往歴",
+        "text": "tiền sử bệnh"
+      },
+      {
+        "id": "allergy",
+        "ja": "アレルギー",
+        "text": "dị ứng"
+      },
+      {
+        "id": "prescription",
+        "ja": "処方箋",
+        "text": "đơn thuốc"
+      },
+      {
+        "id": "nrs",
+        "ja": "NRS",
+        "text": "điểm đau"
+      }
+    ],
+    "business": [
+      {
+        "id": "quotation",
+        "ja": "見積書",
+        "text": "báo giá"
+      },
+      {
+        "id": "competitive-bid",
+        "ja": "相見積もり",
+        "text": "báo giá cạnh tranh"
+      },
+      {
+        "id": "qualified-invoice",
+        "ja": "インボイス",
+        "text": "hóa đơn hợp lệ"
+      },
+      {
+        "id": "invoice",
+        "ja": "請求書",
+        "text": "hóa đơn"
+      },
+      {
+        "id": "delivery-date",
+        "ja": "納期",
+        "text": "thời hạn giao hàng"
+      },
+      {
+        "id": "nda",
+        "ja": "秘密保持契約",
+        "text": "thỏa thuận bảo mật"
+      },
+      {
+        "id": "contract",
+        "ja": "契約書",
+        "text": "hợp đồng"
+      },
+      {
+        "id": "purchase-order",
+        "ja": "発注書",
+        "text": "đơn đặt hàng"
+      },
+      {
+        "id": "milestone",
+        "ja": "マイルストーン",
+        "text": "mốc tiến độ"
+      },
+      {
+        "id": "specification",
+        "ja": "仕様書",
+        "text": "bản thông số"
+      },
+      {
+        "id": "acceptance",
+        "ja": "検収",
+        "text": "nghiệm thu"
+      },
+      {
+        "id": "unit-price",
+        "ja": "単価",
+        "text": "đơn giá"
+      },
+      {
+        "id": "bank-transfer",
+        "ja": "振込",
+        "text": "chuyển khoản"
+      }
+    ],
+    "travel": [
+      {
+        "id": "otoshi",
+        "ja": "お通し",
+        "text": "món khai vị tính phí"
+      },
+      {
+        "id": "limited-express",
+        "ja": "特急",
+        "text": "tàu tốc hành"
+      },
+      {
+        "id": "reserved-seat",
+        "ja": "指定席",
+        "text": "ghế đặt trước"
+      },
+      {
+        "id": "non-reserved",
+        "ja": "自由席",
+        "text": "ghế tự do"
+      },
+      {
+        "id": "ticket-gate",
+        "ja": "改札",
+        "text": "cửa soát vé"
+      },
+      {
+        "id": "one-way",
+        "ja": "片道",
+        "text": "một chiều"
+      },
+      {
+        "id": "round-trip",
+        "ja": "往復",
+        "text": "khứ hồi"
+      },
+      {
+        "id": "transfer",
+        "ja": "乗り換え",
+        "text": "đổi tàu"
+      },
+      {
+        "id": "private-room",
+        "ja": "個室",
+        "text": "phòng riêng"
+      },
+      {
+        "id": "non-smoking",
+        "ja": "禁煙",
+        "text": "cấm hút thuốc"
+      },
+      {
+        "id": "cold-water",
+        "ja": "お冷や",
+        "text": "nước lạnh miễn phí"
+      },
+      {
+        "id": "allergen-label",
+        "ja": "アレルギー表示",
+        "text": "thông tin dị ứng"
+      }
+    ]
+  }
+}

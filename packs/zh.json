@@ -1,0 +1,302 @@
+{
+  "id": "zh",
+  "label": "中国語",
+  "nativeLabel": "中文",
+  "sttLocale": "zh-CN",
+  "ttsVoiceLang": "zh-CN",
+  "scenarios": {
+    "general": [
+      {
+        "id": "konbini",
+        "ja": "コンビニ",
+        "text": "便利店"
+      },
+      {
+        "id": "takuhai",
+        "ja": "宅配便",
+        "text": "快递"
+      },
+      {
+        "id": "mynumber",
+        "ja": "マイナンバー",
+        "text": "个人编号"
+      },
+      {
+        "id": "consumption-tax",
+        "ja": "消費税",
+        "text": "消费税"
+      }
+    ],
+    "medical": [
+      {
+        "id": "pressure-ulcer",
+        "ja": "褥瘡",
+        "text": "压疮"
+      },
+      {
+        "id": "repositioning",
+        "ja": "体位変換",
+        "text": "翻身"
+      },
+      {
+        "id": "vital-signs",
+        "ja": "バイタルサイン",
+        "text": "生命体征"
+      },
+      {
+        "id": "medication-check",
+        "ja": "服薬確認",
+        "text": "用药确认"
+      },
+      {
+        "id": "spo2",
+        "ja": "SpO2",
+        "text": "血氧饱和度"
+      },
+      {
+        "id": "appetite-loss",
+        "ja": "食欲不振",
+        "text": "食欲不振"
+      },
+      {
+        "id": "blood-pressure",
+        "ja": "血圧",
+        "text": "血压"
+      },
+      {
+        "id": "body-temperature",
+        "ja": "体温",
+        "text": "体温"
+      },
+      {
+        "id": "catheter",
+        "ja": "カテーテル",
+        "text": "导管"
+      },
+      {
+        "id": "insulin",
+        "ja": "インスリン",
+        "text": "胰岛素"
+      },
+      {
+        "id": "antibiotic",
+        "ja": "抗菌薬",
+        "text": "抗菌药"
+      },
+      {
+        "id": "nurse-call",
+        "ja": "ナースコール",
+        "text": "护士呼叫"
+      },
+      {
+        "id": "swallowing",
+        "ja": "嚥下",
+        "text": "吞咽"
+      },
+      {
+        "id": "aspiration",
+        "ja": "誤嚥",
+        "text": "误吸"
+      },
+      {
+        "id": "sputum",
+        "ja": "喀痰",
+        "text": "痰"
+      },
+      {
+        "id": "suction",
+        "ja": "吸引",
+        "text": "吸痰"
+      },
+      {
+        "id": "dressing",
+        "ja": "ドレッシング",
+        "text": "敷料"
+      },
+      {
+        "id": "care-required",
+        "ja": "要介護",
+        "text": "需要护理"
+      },
+      {
+        "id": "support-required",
+        "ja": "要支援",
+        "text": "需要支援"
+      },
+      {
+        "id": "care-level",
+        "ja": "要介護認定",
+        "text": "护理等级认定"
+      },
+      {
+        "id": "day-service",
+        "ja": "デイサービス",
+        "text": "日间照料"
+      },
+      {
+        "id": "care-manager",
+        "ja": "ケアマネ",
+        "text": "护理经理"
+      },
+      {
+        "id": "short-stay",
+        "ja": "ショートステイ",
+        "text": "短期入住"
+      },
+      {
+        "id": "medication-book",
+        "ja": "お薬手帳",
+        "text": "用药记录本"
+      },
+      {
+        "id": "history",
+        "ja": "既往歴",
+        "text": "既往史"
+      },
+      {
+        "id": "allergy",
+        "ja": "アレルギー",
+        "text": "过敏"
+      },
+      {
+        "id": "prescription",
+        "ja": "処方箋",
+        "text": "处方"
+      },
+      {
+        "id": "nrs",
+        "ja": "NRS",
+        "text": "疼痛评分"
+      }
+    ],
+    "business": [
+      {
+        "id": "quotation",
+        "ja": "見積書",
+        "text": "报价单"
+      },
+      {
+        "id": "competitive-bid",
+        "ja": "相見積もり",
+        "text": "多家比价"
+      },
+      {
+        "id": "qualified-invoice",
+        "ja": "インボイス",
+        "text": "合格发票"
+      },
+      {
+        "id": "invoice",
+        "ja": "請求書",
+        "text": "账单"
+      },
+      {
+        "id": "delivery-date",
+        "ja": "納期",
+        "text": "交货期"
+      },
+      {
+        "id": "nda",
+        "ja": "秘密保持契約",
+        "text": "保密协议"
+      },
+      {
+        "id": "contract",
+        "ja": "契約書",
+        "text": "合同"
+      },
+      {
+        "id": "purchase-order",
+        "ja": "発注書",
+        "text": "订购单"
+      },
+      {
+        "id": "milestone",
+        "ja": "マイルストーン",
+        "text": "里程碑"
+      },
+      {
+        "id": "specification",
+        "ja": "仕様書",
+        "text": "规格书"
+      },
+      {
+        "id": "acceptance",
+        "ja": "検収",
+        "text": "验收"
+      },
+      {
+        "id": "unit-price",
+        "ja": "単価",
+        "text": "单价"
+      },
+      {
+        "id": "bank-transfer",
+        "ja": "振込",
+        "text": "银行转账"
+      }
+    ],
+    "travel": [
+      {
+        "id": "otoshi",
+        "ja": "お通し",
+        "text": "座位小菜"
+      },
+      {
+        "id": "limited-express",
+        "ja": "特急",
+        "text": "特急"
+      },
+      {
+        "id": "reserved-seat",
+        "ja": "指定席",
+        "text": "指定席"
+      },
+      {
+        "id": "non-reserved",
+        "ja": "自由席",
+        "text": "自由席"
+      },
+      {
+        "id": "ticket-gate",
+        "ja": "改札",
+        "text": "检票口"
+      },
+      {
+        "id": "one-way",
+        "ja": "片道",
+        "text": "单程"
+      },
+      {
+        "id": "round-trip",
+        "ja": "往復",
+        "text": "往返"
+      },
+      {
+        "id": "transfer",
+        "ja": "乗り換え",
+        "text": "换乘"
+      },
+      {
+        "id": "private-room",
+        "ja": "個室",
+        "text": "包间"
+      },
+      {
+        "id": "non-smoking",
+        "ja": "禁煙",
+        "text": "禁烟"
+      },
+      {
+        "id": "cold-water",
+        "ja": "お冷や",
+        "text": "免费冰水"
+      },
+      {
+        "id": "allergen-label",
+        "ja": "アレルギー表示",
+        "text": "过敏原标示"
+      }
+    ]
+  }
+}

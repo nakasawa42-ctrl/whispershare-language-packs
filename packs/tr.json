@@ -1,0 +1,302 @@
+{
+  "id": "tr",
+  "label": "トルコ語",
+  "nativeLabel": "Türkçe",
+  "sttLocale": "tr-TR",
+  "ttsVoiceLang": "tr-TR",
+  "scenarios": {
+    "general": [
+      {
+        "id": "konbini",
+        "ja": "コンビニ",
+        "text": "market"
+      },
+      {
+        "id": "takuhai",
+        "ja": "宅配便",
+        "text": "kargo teslimatı"
+      },
+      {
+        "id": "mynumber",
+        "ja": "マイナンバー",
+        "text": "kişisel numara"
+      },
+      {
+        "id": "consumption-tax",
+        "ja": "消費税",
+        "text": "tüketim vergisi"
+      }
+    ],
+    "medical": [
+      {
+        "id": "pressure-ulcer",
+        "ja": "褥瘡",
+        "text": "bası yarası"
+      },
+      {
+        "id": "repositioning",
+        "ja": "体位変換",
+        "text": "pozisyon değiştirme"
+      },
+      {
+        "id": "vital-signs",
+        "ja": "バイタルサイン",
+        "text": "yaşamsal bulgular"
+      },
+      {
+        "id": "medication-check",
+        "ja": "服薬確認",
+        "text": "ilaç kontrolü"
+      },
+      {
+        "id": "spo2",
+        "ja": "SpO2",
+        "text": "oksijen doygunluğu"
+      },
+      {
+        "id": "appetite-loss",
+        "ja": "食欲不振",
+        "text": "iştahsızlık"
+      },
+      {
+        "id": "blood-pressure",
+        "ja": "血圧",
+        "text": "tansiyon"
+      },
+      {
+        "id": "body-temperature",
+        "ja": "体温",
+        "text": "vücut sıcaklığı"
+      },
+      {
+        "id": "catheter",
+        "ja": "カテーテル",
+        "text": "kateter"
+      },
+      {
+        "id": "insulin",
+        "ja": "インスリン",
+        "text": "insülin"
+      },
+      {
+        "id": "antibiotic",
+        "ja": "抗菌薬",
+        "text": "antibiyotik"
+      },
+      {
+        "id": "nurse-call",
+        "ja": "ナースコール",
+        "text": "hemşire çağrı"
+      },
+      {
+        "id": "swallowing",
+        "ja": "嚥下",
+        "text": "yutma"
+      },
+      {
+        "id": "aspiration",
+        "ja": "誤嚥",
+        "text": "aspirasyon"
+      },
+      {
+        "id": "sputum",
+        "ja": "喀痰",
+        "text": "balgam"
+      },
+      {
+        "id": "suction",
+        "ja": "吸引",
+        "text": "aspirasyonla temizleme"
+      },
+      {
+        "id": "dressing",
+        "ja": "ドレッシング",
+        "text": "yara pansumanı"
+      },
+      {
+        "id": "care-required",
+        "ja": "要介護",
+        "text": "bakım gerekir"
+      },
+      {
+        "id": "support-required",
+        "ja": "要支援",
+        "text": "destek gerekir"
+      },
+      {
+        "id": "care-level",
+        "ja": "要介護認定",
+        "text": "bakım düzeyi değerlendirmesi"
+      },
+      {
+        "id": "day-service",
+        "ja": "デイサービス",
+        "text": "gündüz bakımı"
+      },
+      {
+        "id": "care-manager",
+        "ja": "ケアマネ",
+        "text": "bakım koordinatörü"
+      },
+      {
+        "id": "short-stay",
+        "ja": "ショートステイ",
+        "text": "kısa süreli kalış"
+      },
+      {
+        "id": "medication-book",
+        "ja": "お薬手帳",
+        "text": "ilaç defteri"
+      },
+      {
+        "id": "history",
+        "ja": "既往歴",
+        "text": "tıbbi öykü"
+      },
+      {
+        "id": "allergy",
+        "ja": "アレルギー",
+        "text": "alerji"
+      },
+      {
+        "id": "prescription",
+        "ja": "処方箋",
+        "text": "reçete"
+      },
+      {
+        "id": "nrs",
+        "ja": "NRS",
+        "text": "ağrı puanı"
+      }
+    ],
+    "business": [
+      {
+        "id": "quotation",
+        "ja": "見積書",
+        "text": "fiyat teklifi"
+      },
+      {
+        "id": "competitive-bid",
+        "ja": "相見積もり",
+        "text": "karşılaştırmalı teklif"
+      },
+      {
+        "id": "qualified-invoice",
+        "ja": "インボイス",
+        "text": "uygun fatura"
+      },
+      {
+        "id": "invoice",
+        "ja": "請求書",
+        "text": "fatura"
+      },
+      {
+        "id": "delivery-date",
+        "ja": "納期",
+        "text": "teslim tarihi"
+      },
+      {
+        "id": "nda",
+        "ja": "秘密保持契約",
+        "text": "gizlilik sözleşmesi"
+      },
+      {
+        "id": "contract",
+        "ja": "契約書",
+        "text": "sözleşme"
+      },
+      {
+        "id": "purchase-order",
+        "ja": "発注書",
+        "text": "sipariş formu"
+      },
+      {
+        "id": "milestone",
+        "ja": "マイルストーン",
+        "text": "kilometre taşı"
+      },
+      {
+        "id": "specification",
+        "ja": "仕様書",
+        "text": "şartname"
+      },
+      {
+        "id": "acceptance",
+        "ja": "検収",
+        "text": "teslim alma"
+      },
+      {
+        "id": "unit-price",
+        "ja": "単価",
+        "text": "birim fiyat"
+      },
+      {
+        "id": "bank-transfer",
+        "ja": "振込",
+        "text": "havale"
+      }
+    ],
+    "travel": [
+      {
+        "id": "otoshi",
+        "ja": "お通し",
+        "text": "oturma ücretiyle meze"
+      },
+      {
+        "id": "limited-express",
+        "ja": "特急",
+        "text": "ekspres tren"
+      },
+      {
+        "id": "reserved-seat",
+        "ja": "指定席",
+        "text": "rezerveli koltuk"
+      },
+      {
+        "id": "non-reserved",
+        "ja": "自由席",
+        "text": "rezervesiz koltuk"
+      },
+      {
+        "id": "ticket-gate",
+        "ja": "改札",
+        "text": "bilet gişesi"
+      },
+      {
+        "id": "one-way",
+        "ja": "片道",
+        "text": "tek yön"
+      },
+      {
+        "id": "round-trip",
+        "ja": "往復",
+        "text": "gidiş dönüş"
+      },
+      {
+        "id": "transfer",
+        "ja": "乗り換え",
+        "text": "aktarma"
+      },
+      {
+        "id": "private-room",
+        "ja": "個室",
+        "text": "özel oda"
+      },
+      {
+        "id": "non-smoking",
+        "ja": "禁煙",
+        "text": "sigara içilmez"
+      },
+      {
+        "id": "cold-water",
+        "ja": "お冷や",
+        "text": "ikram soğuk su"
+      },
+      {
+        "id": "allergen-label",
+        "ja": "アレルギー表示",
+        "text": "alerjen bilgisi"
+      }
+    ]
+  }
+}

@@ -1,0 +1,302 @@
+{
+  "id": "id",
+  "label": "インドネシア語",
+  "nativeLabel": "Bahasa Indonesia",
+  "sttLocale": "id-ID",
+  "ttsVoiceLang": "id-ID",
+  "scenarios": {
+    "general": [
+      {
+        "id": "konbini",
+        "ja": "コンビニ",
+        "text": "minimarket"
+      },
+      {
+        "id": "takuhai",
+        "ja": "宅配便",
+        "text": "pengiriman paket"
+      },
+      {
+        "id": "mynumber",
+        "ja": "マイナンバー",
+        "text": "nomor pribadi"
+      },
+      {
+        "id": "consumption-tax",
+        "ja": "消費税",
+        "text": "pajak konsumsi"
+      }
+    ],
+    "medical": [
+      {
+        "id": "pressure-ulcer",
+        "ja": "褥瘡",
+        "text": "luka tekan"
+      },
+      {
+        "id": "repositioning",
+        "ja": "体位変換",
+        "text": "perubahan posisi"
+      },
+      {
+        "id": "vital-signs",
+        "ja": "バイタルサイン",
+        "text": "tanda vital"
+      },
+      {
+        "id": "medication-check",
+        "ja": "服薬確認",
+        "text": "pemeriksaan obat"
+      },
+      {
+        "id": "spo2",
+        "ja": "SpO2",
+        "text": "saturasi oksigen"
+      },
+      {
+        "id": "appetite-loss",
+        "ja": "食欲不振",
+        "text": "hilang nafsu makan"
+      },
+      {
+        "id": "blood-pressure",
+        "ja": "血圧",
+        "text": "tekanan darah"
+      },
+      {
+        "id": "body-temperature",
+        "ja": "体温",
+        "text": "suhu tubuh"
+      },
+      {
+        "id": "catheter",
+        "ja": "カテーテル",
+        "text": "kateter"
+      },
+      {
+        "id": "insulin",
+        "ja": "インスリン",
+        "text": "insulin"
+      },
+      {
+        "id": "antibiotic",
+        "ja": "抗菌薬",
+        "text": "antibiotik"
+      },
+      {
+        "id": "nurse-call",
+        "ja": "ナースコール",
+        "text": "bel perawat"
+      },
+      {
+        "id": "swallowing",
+        "ja": "嚥下",
+        "text": "menelan"
+      },
+      {
+        "id": "aspiration",
+        "ja": "誤嚥",
+        "text": "tersedak ke saluran napas"
+      },
+      {
+        "id": "sputum",
+        "ja": "喀痰",
+        "text": "dahak"
+      },
+      {
+        "id": "suction",
+        "ja": "吸引",
+        "text": "pengisapan dahak"
+      },
+      {
+        "id": "dressing",
+        "ja": "ドレッシング",
+        "text": "balutan luka"
+      },
+      {
+        "id": "care-required",
+        "ja": "要介護",
+        "text": "perlu perawatan"
+      },
+      {
+        "id": "support-required",
+        "ja": "要支援",
+        "text": "perlu bantuan"
+      },
+      {
+        "id": "care-level",
+        "ja": "要介護認定",
+        "text": "penetapan tingkat perawatan"
+      },
+      {
+        "id": "day-service",
+        "ja": "デイサービス",
+        "text": "perawatan siang"
+      },
+      {
+        "id": "care-manager",
+        "ja": "ケアマネ",
+        "text": "pengelola perawatan"
+      },
+      {
+        "id": "short-stay",
+        "ja": "ショートステイ",
+        "text": "rawat singkat"
+      },
+      {
+        "id": "medication-book",
+        "ja": "お薬手帳",
+        "text": "buku catatan obat"
+      },
+      {
+        "id": "history",
+        "ja": "既往歴",
+        "text": "riwayat penyakit"
+      },
+      {
+        "id": "allergy",
+        "ja": "アレルギー",
+        "text": "alergi"
+      },
+      {
+        "id": "prescription",
+        "ja": "処方箋",
+        "text": "resep"
+      },
+      {
+        "id": "nrs",
+        "ja": "NRS",
+        "text": "skor nyeri"
+      }
+    ],
+    "business": [
+      {
+        "id": "quotation",
+        "ja": "見積書",
+        "text": "penawaran harga"
+      },
+      {
+        "id": "competitive-bid",
+        "ja": "相見積もり",
+        "text": "perbandingan penawaran"
+      },
+      {
+        "id": "qualified-invoice",
+        "ja": "インボイス",
+        "text": "faktur yang sah"
+      },
+      {
+        "id": "invoice",
+        "ja": "請求書",
+        "text": "tagihan"
+      },
+      {
+        "id": "delivery-date",
+        "ja": "納期",
+        "text": "batas pengiriman"
+      },
+      {
+        "id": "nda",
+        "ja": "秘密保持契約",
+        "text": "perjanjian kerahasiaan"
+      },
+      {
+        "id": "contract",
+        "ja": "契約書",
+        "text": "kontrak"
+      },
+      {
+        "id": "purchase-order",
+        "ja": "発注書",
+        "text": "pesanan pembelian"
+      },
+      {
+        "id": "milestone",
+        "ja": "マイルストーン",
+        "text": "tonggak kemajuan"
+      },
+      {
+        "id": "specification",
+        "ja": "仕様書",
+        "text": "spesifikasi"
+      },
+      {
+        "id": "acceptance",
+        "ja": "検収",
+        "text": "pemeriksaan terima"
+      },
+      {
+        "id": "unit-price",
+        "ja": "単価",
+        "text": "harga satuan"
+      },
+      {
+        "id": "bank-transfer",
+        "ja": "振込",
+        "text": "transfer bank"
+      }
+    ],
+    "travel": [
+      {
+        "id": "otoshi",
+        "ja": "お通し",
+        "text": "makanan pembuka berbayar"
+      },
+      {
+        "id": "limited-express",
+        "ja": "特急",
+        "text": "kereta ekspres"
+      },
+      {
+        "id": "reserved-seat",
+        "ja": "指定席",
+        "text": "kursi dipesan"
+      },
+      {
+        "id": "non-reserved",
+        "ja": "自由席",
+        "text": "kursi bebas"
+      },
+      {
+        "id": "ticket-gate",
+        "ja": "改札",
+        "text": "gerbang tiket"
+      },
+      {
+        "id": "one-way",
+        "ja": "片道",
+        "text": "sekali jalan"
+      },
+      {
+        "id": "round-trip",
+        "ja": "往復",
+        "text": "pulang pergi"
+      },
+      {
+        "id": "transfer",
+        "ja": "乗り換え",
+        "text": "pindah kereta"
+      },
+      {
+        "id": "private-room",
+        "ja": "個室",
+        "text": "ruang pribadi"
+      },
+      {
+        "id": "non-smoking",
+        "ja": "禁煙",
+        "text": "dilarang merokok"
+      },
+      {
+        "id": "cold-water",
+        "ja": "お冷や",
+        "text": "air dingin gratis"
+      },
+      {
+        "id": "allergen-label",
+        "ja": "アレルギー表示",
+        "text": "informasi alergen"
+      }
+    ]
+  }
+}

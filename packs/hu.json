@@ -1,0 +1,302 @@
+{
+  "id": "hu",
+  "label": "ハンガリー語",
+  "nativeLabel": "Magyar",
+  "sttLocale": "hu-HU",
+  "ttsVoiceLang": "hu-HU",
+  "scenarios": {
+    "general": [
+      {
+        "id": "konbini",
+        "ja": "コンビニ",
+        "text": "kisbolt"
+      },
+      {
+        "id": "takuhai",
+        "ja": "宅配便",
+        "text": "csomagkézbesítés"
+      },
+      {
+        "id": "mynumber",
+        "ja": "マイナンバー",
+        "text": "személyi azonosító"
+      },
+      {
+        "id": "consumption-tax",
+        "ja": "消費税",
+        "text": "fogyasztási adó"
+      }
+    ],
+    "medical": [
+      {
+        "id": "pressure-ulcer",
+        "ja": "褥瘡",
+        "text": "felfekvés"
+      },
+      {
+        "id": "repositioning",
+        "ja": "体位変換",
+        "text": "helyzetváltoztatás"
+      },
+      {
+        "id": "vital-signs",
+        "ja": "バイタルサイン",
+        "text": "életjelek"
+      },
+      {
+        "id": "medication-check",
+        "ja": "服薬確認",
+        "text": "gyógyszerellenőrzés"
+      },
+      {
+        "id": "spo2",
+        "ja": "SpO2",
+        "text": "oxigénszaturáció"
+      },
+      {
+        "id": "appetite-loss",
+        "ja": "食欲不振",
+        "text": "étvágytalanság"
+      },
+      {
+        "id": "blood-pressure",
+        "ja": "血圧",
+        "text": "vérnyomás"
+      },
+      {
+        "id": "body-temperature",
+        "ja": "体温",
+        "text": "testhőmérséklet"
+      },
+      {
+        "id": "catheter",
+        "ja": "カテーテル",
+        "text": "katéter"
+      },
+      {
+        "id": "insulin",
+        "ja": "インスリン",
+        "text": "inzulin"
+      },
+      {
+        "id": "antibiotic",
+        "ja": "抗菌薬",
+        "text": "antibiotikum"
+      },
+      {
+        "id": "nurse-call",
+        "ja": "ナースコール",
+        "text": "nővérhívó"
+      },
+      {
+        "id": "swallowing",
+        "ja": "嚥下",
+        "text": "nyelés"
+      },
+      {
+        "id": "aspiration",
+        "ja": "誤嚥",
+        "text": "aspiráció"
+      },
+      {
+        "id": "sputum",
+        "ja": "喀痰",
+        "text": "köpet"
+      },
+      {
+        "id": "suction",
+        "ja": "吸引",
+        "text": "leszívás"
+      },
+      {
+        "id": "dressing",
+        "ja": "ドレッシング",
+        "text": "sebkötés"
+      },
+      {
+        "id": "care-required",
+        "ja": "要介護",
+        "text": "ápolásra szorul"
+      },
+      {
+        "id": "support-required",
+        "ja": "要支援",
+        "text": "támogatásra szorul"
+      },
+      {
+        "id": "care-level",
+        "ja": "要介護認定",
+        "text": "ápolási besorolás"
+      },
+      {
+        "id": "day-service",
+        "ja": "デイサービス",
+        "text": "nappali ellátás"
+      },
+      {
+        "id": "care-manager",
+        "ja": "ケアマネ",
+        "text": "gondozásvezető"
+      },
+      {
+        "id": "short-stay",
+        "ja": "ショートステイ",
+        "text": "rövid bentlakás"
+      },
+      {
+        "id": "medication-book",
+        "ja": "お薬手帳",
+        "text": "gyógyszerfüzet"
+      },
+      {
+        "id": "history",
+        "ja": "既往歴",
+        "text": "kórelőzmény"
+      },
+      {
+        "id": "allergy",
+        "ja": "アレルギー",
+        "text": "allergia"
+      },
+      {
+        "id": "prescription",
+        "ja": "処方箋",
+        "text": "recept"
+      },
+      {
+        "id": "nrs",
+        "ja": "NRS",
+        "text": "fájdalompont"
+      }
+    ],
+    "business": [
+      {
+        "id": "quotation",
+        "ja": "見積書",
+        "text": "árajánlat"
+      },
+      {
+        "id": "competitive-bid",
+        "ja": "相見積もり",
+        "text": "összehasonlító ajánlat"
+      },
+      {
+        "id": "qualified-invoice",
+        "ja": "インボイス",
+        "text": "minősített számla"
+      },
+      {
+        "id": "invoice",
+        "ja": "請求書",
+        "text": "számla"
+      },
+      {
+        "id": "delivery-date",
+        "ja": "納期",
+        "text": "szállítási határidő"
+      },
+      {
+        "id": "nda",
+        "ja": "秘密保持契約",
+        "text": "titoktartási megállapodás"
+      },
+      {
+        "id": "contract",
+        "ja": "契約書",
+        "text": "szerződés"
+      },
+      {
+        "id": "purchase-order",
+        "ja": "発注書",
+        "text": "megrendelés"
+      },
+      {
+        "id": "milestone",
+        "ja": "マイルストーン",
+        "text": "mérföldkő"
+      },
+      {
+        "id": "specification",
+        "ja": "仕様書",
+        "text": "specifikáció"
+      },
+      {
+        "id": "acceptance",
+        "ja": "検収",
+        "text": "átvétel"
+      },
+      {
+        "id": "unit-price",
+        "ja": "単価",
+        "text": "egységár"
+      },
+      {
+        "id": "bank-transfer",
+        "ja": "振込",
+        "text": "átutalás"
+      }
+    ],
+    "travel": [
+      {
+        "id": "otoshi",
+        "ja": "お通し",
+        "text": "kötelező előétel"
+      },
+      {
+        "id": "limited-express",
+        "ja": "特急",
+        "text": "gyorsvonat"
+      },
+      {
+        "id": "reserved-seat",
+        "ja": "指定席",
+        "text": "helyjegy"
+      },
+      {
+        "id": "non-reserved",
+        "ja": "自由席",
+        "text": "szabad hely"
+      },
+      {
+        "id": "ticket-gate",
+        "ja": "改札",
+        "text": "jegykapu"
+      },
+      {
+        "id": "one-way",
+        "ja": "片道",
+        "text": "egy útra"
+      },
+      {
+        "id": "round-trip",
+        "ja": "往復",
+        "text": "oda-vissza"
+      },
+      {
+        "id": "transfer",
+        "ja": "乗り換え",
+        "text": "átszállás"
+      },
+      {
+        "id": "private-room",
+        "ja": "個室",
+        "text": "különterem"
+      },
+      {
+        "id": "non-smoking",
+        "ja": "禁煙",
+        "text": "dohányzás tilos"
+      },
+      {
+        "id": "cold-water",
+        "ja": "お冷や",
+        "text": "ingyenes hideg víz"
+      },
+      {
+        "id": "allergen-label",
+        "ja": "アレルギー表示",
+        "text": "allergén információ"
+      }
+    ]
+  }
+}

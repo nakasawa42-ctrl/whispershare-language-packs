@@ -1,0 +1,302 @@
+{
+  "id": "sk",
+  "label": "スロバキア語",
+  "nativeLabel": "Slovenčina",
+  "sttLocale": "sk-SK",
+  "ttsVoiceLang": "sk-SK",
+  "scenarios": {
+    "general": [
+      {
+        "id": "konbini",
+        "ja": "コンビニ",
+        "text": "predajňa"
+      },
+      {
+        "id": "takuhai",
+        "ja": "宅配便",
+        "text": "doručenie balíka"
+      },
+      {
+        "id": "mynumber",
+        "ja": "マイナンバー",
+        "text": "osobné číslo"
+      },
+      {
+        "id": "consumption-tax",
+        "ja": "消費税",
+        "text": "daň zo spotreby"
+      }
+    ],
+    "medical": [
+      {
+        "id": "pressure-ulcer",
+        "ja": "褥瘡",
+        "text": "preležanina"
+      },
+      {
+        "id": "repositioning",
+        "ja": "体位変換",
+        "text": "polohovanie"
+      },
+      {
+        "id": "vital-signs",
+        "ja": "バイタルサイン",
+        "text": "životné funkcie"
+      },
+      {
+        "id": "medication-check",
+        "ja": "服薬確認",
+        "text": "kontrola liekov"
+      },
+      {
+        "id": "spo2",
+        "ja": "SpO2",
+        "text": "saturácia kyslíkom"
+      },
+      {
+        "id": "appetite-loss",
+        "ja": "食欲不振",
+        "text": "nechutenstvo"
+      },
+      {
+        "id": "blood-pressure",
+        "ja": "血圧",
+        "text": "krvný tlak"
+      },
+      {
+        "id": "body-temperature",
+        "ja": "体温",
+        "text": "telesná teplota"
+      },
+      {
+        "id": "catheter",
+        "ja": "カテーテル",
+        "text": "katéter"
+      },
+      {
+        "id": "insulin",
+        "ja": "インスリン",
+        "text": "inzulín"
+      },
+      {
+        "id": "antibiotic",
+        "ja": "抗菌薬",
+        "text": "antibiotikum"
+      },
+      {
+        "id": "nurse-call",
+        "ja": "ナースコール",
+        "text": "privolanie sestry"
+      },
+      {
+        "id": "swallowing",
+        "ja": "嚥下",
+        "text": "prehĺtanie"
+      },
+      {
+        "id": "aspiration",
+        "ja": "誤嚥",
+        "text": "aspirácia"
+      },
+      {
+        "id": "sputum",
+        "ja": "喀痰",
+        "text": "hlien"
+      },
+      {
+        "id": "suction",
+        "ja": "吸引",
+        "text": "odsávanie"
+      },
+      {
+        "id": "dressing",
+        "ja": "ドレッシング",
+        "text": "krytie rany"
+      },
+      {
+        "id": "care-required",
+        "ja": "要介護",
+        "text": "potrebná opatera"
+      },
+      {
+        "id": "support-required",
+        "ja": "要支援",
+        "text": "potrebná podpora"
+      },
+      {
+        "id": "care-level",
+        "ja": "要介護認定",
+        "text": "posúdenie odkázanosti"
+      },
+      {
+        "id": "day-service",
+        "ja": "デイサービス",
+        "text": "denná starostlivosť"
+      },
+      {
+        "id": "care-manager",
+        "ja": "ケアマネ",
+        "text": "manažér starostlivosti"
+      },
+      {
+        "id": "short-stay",
+        "ja": "ショートステイ",
+        "text": "krátkodobý pobyt"
+      },
+      {
+        "id": "medication-book",
+        "ja": "お薬手帳",
+        "text": "záznamník liekov"
+      },
+      {
+        "id": "history",
+        "ja": "既往歴",
+        "text": "anamnéza"
+      },
+      {
+        "id": "allergy",
+        "ja": "アレルギー",
+        "text": "alergia"
+      },
+      {
+        "id": "prescription",
+        "ja": "処方箋",
+        "text": "recept"
+      },
+      {
+        "id": "nrs",
+        "ja": "NRS",
+        "text": "skóre bolesti"
+      }
+    ],
+    "business": [
+      {
+        "id": "quotation",
+        "ja": "見積書",
+        "text": "cenová ponuka"
+      },
+      {
+        "id": "competitive-bid",
+        "ja": "相見積もり",
+        "text": "porovnávacia ponuka"
+      },
+      {
+        "id": "qualified-invoice",
+        "ja": "インボイス",
+        "text": "uznaná faktúra"
+      },
+      {
+        "id": "invoice",
+        "ja": "請求書",
+        "text": "faktúra"
+      },
+      {
+        "id": "delivery-date",
+        "ja": "納期",
+        "text": "termín dodania"
+      },
+      {
+        "id": "nda",
+        "ja": "秘密保持契約",
+        "text": "dohoda o mlčanlivosti"
+      },
+      {
+        "id": "contract",
+        "ja": "契約書",
+        "text": "zmluva"
+      },
+      {
+        "id": "purchase-order",
+        "ja": "発注書",
+        "text": "objednávka"
+      },
+      {
+        "id": "milestone",
+        "ja": "マイルストーン",
+        "text": "míľnik"
+      },
+      {
+        "id": "specification",
+        "ja": "仕様書",
+        "text": "špecifikácia"
+      },
+      {
+        "id": "acceptance",
+        "ja": "検収",
+        "text": "prevzatie"
+      },
+      {
+        "id": "unit-price",
+        "ja": "単価",
+        "text": "jednotková cena"
+      },
+      {
+        "id": "bank-transfer",
+        "ja": "振込",
+        "text": "bankový prevod"
+      }
+    ],
+    "travel": [
+      {
+        "id": "otoshi",
+        "ja": "お通し",
+        "text": "povinné predjedlo"
+      },
+      {
+        "id": "limited-express",
+        "ja": "特急",
+        "text": "rýchlik"
+      },
+      {
+        "id": "reserved-seat",
+        "ja": "指定席",
+        "text": "miestenka"
+      },
+      {
+        "id": "non-reserved",
+        "ja": "自由席",
+        "text": "voľné miesto"
+      },
+      {
+        "id": "ticket-gate",
+        "ja": "改札",
+        "text": "turniket"
+      },
+      {
+        "id": "one-way",
+        "ja": "片道",
+        "text": "jednosmerná"
+      },
+      {
+        "id": "round-trip",
+        "ja": "往復",
+        "text": "spiatočná"
+      },
+      {
+        "id": "transfer",
+        "ja": "乗り換え",
+        "text": "prestup"
+      },
+      {
+        "id": "private-room",
+        "ja": "個室",
+        "text": "samostatná miestnosť"
+      },
+      {
+        "id": "non-smoking",
+        "ja": "禁煙",
+        "text": "nefajčiarska"
+      },
+      {
+        "id": "cold-water",
+        "ja": "お冷や",
+        "text": "voda zadarmo"
+      },
+      {
+        "id": "allergen-label",
+        "ja": "アレルギー表示",
+        "text": "informácie o alergénoch"
+      }
+    ]
+  }
+}

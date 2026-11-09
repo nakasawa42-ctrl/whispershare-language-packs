@@ -1,0 +1,302 @@
+{
+  "id": "hr",
+  "label": "クロアチア語",
+  "nativeLabel": "Hrvatski",
+  "sttLocale": "hr-HR",
+  "ttsVoiceLang": "hr-HR",
+  "scenarios": {
+    "general": [
+      {
+        "id": "konbini",
+        "ja": "コンビニ",
+        "text": "trgovina mješovite robe"
+      },
+      {
+        "id": "takuhai",
+        "ja": "宅配便",
+        "text": "dostava paketa"
+      },
+      {
+        "id": "mynumber",
+        "ja": "マイナンバー",
+        "text": "osobni broj"
+      },
+      {
+        "id": "consumption-tax",
+        "ja": "消費税",
+        "text": "porez na potrošnju"
+      }
+    ],
+    "medical": [
+      {
+        "id": "pressure-ulcer",
+        "ja": "褥瘡",
+        "text": "dekubitus"
+      },
+      {
+        "id": "repositioning",
+        "ja": "体位変換",
+        "text": "promjena položaja"
+      },
+      {
+        "id": "vital-signs",
+        "ja": "バイタルサイン",
+        "text": "vitalni znakovi"
+      },
+      {
+        "id": "medication-check",
+        "ja": "服薬確認",
+        "text": "provjera lijekova"
+      },
+      {
+        "id": "spo2",
+        "ja": "SpO2",
+        "text": "zasićenost kisikom"
+      },
+      {
+        "id": "appetite-loss",
+        "ja": "食欲不振",
+        "text": "gubitak apetita"
+      },
+      {
+        "id": "blood-pressure",
+        "ja": "血圧",
+        "text": "krvni tlak"
+      },
+      {
+        "id": "body-temperature",
+        "ja": "体温",
+        "text": "tjelesna temperatura"
+      },
+      {
+        "id": "catheter",
+        "ja": "カテーテル",
+        "text": "kateter"
+      },
+      {
+        "id": "insulin",
+        "ja": "インスリン",
+        "text": "inzulin"
+      },
+      {
+        "id": "antibiotic",
+        "ja": "抗菌薬",
+        "text": "antibiotik"
+      },
+      {
+        "id": "nurse-call",
+        "ja": "ナースコール",
+        "text": "poziv medicinskoj sestri"
+      },
+      {
+        "id": "swallowing",
+        "ja": "嚥下",
+        "text": "gutanje"
+      },
+      {
+        "id": "aspiration",
+        "ja": "誤嚥",
+        "text": "aspiracija"
+      },
+      {
+        "id": "sputum",
+        "ja": "喀痰",
+        "text": "iskašljaj"
+      },
+      {
+        "id": "suction",
+        "ja": "吸引",
+        "text": "usisavanje sekreta"
+      },
+      {
+        "id": "dressing",
+        "ja": "ドレッシング",
+        "text": "zavoj"
+      },
+      {
+        "id": "care-required",
+        "ja": "要介護",
+        "text": "potrebna njega"
+      },
+      {
+        "id": "support-required",
+        "ja": "要支援",
+        "text": "potrebna podrška"
+      },
+      {
+        "id": "care-level",
+        "ja": "要介護認定",
+        "text": "procjena razine njege"
+      },
+      {
+        "id": "day-service",
+        "ja": "デイサービス",
+        "text": "dnevni boravak"
+      },
+      {
+        "id": "care-manager",
+        "ja": "ケアマネ",
+        "text": "voditelj njege"
+      },
+      {
+        "id": "short-stay",
+        "ja": "ショートステイ",
+        "text": "kratki boravak"
+      },
+      {
+        "id": "medication-book",
+        "ja": "お薬手帳",
+        "text": "knjižica lijekova"
+      },
+      {
+        "id": "history",
+        "ja": "既往歴",
+        "text": "anamneza"
+      },
+      {
+        "id": "allergy",
+        "ja": "アレルギー",
+        "text": "alergija"
+      },
+      {
+        "id": "prescription",
+        "ja": "処方箋",
+        "text": "recept"
+      },
+      {
+        "id": "nrs",
+        "ja": "NRS",
+        "text": "ocjena boli"
+      }
+    ],
+    "business": [
+      {
+        "id": "quotation",
+        "ja": "見積書",
+        "text": "ponuda"
+      },
+      {
+        "id": "competitive-bid",
+        "ja": "相見積もり",
+        "text": "usporedna ponuda"
+      },
+      {
+        "id": "qualified-invoice",
+        "ja": "インボイス",
+        "text": "kvalificirani račun"
+      },
+      {
+        "id": "invoice",
+        "ja": "請求書",
+        "text": "račun"
+      },
+      {
+        "id": "delivery-date",
+        "ja": "納期",
+        "text": "rok isporuke"
+      },
+      {
+        "id": "nda",
+        "ja": "秘密保持契約",
+        "text": "ugovor o povjerljivosti"
+      },
+      {
+        "id": "contract",
+        "ja": "契約書",
+        "text": "ugovor"
+      },
+      {
+        "id": "purchase-order",
+        "ja": "発注書",
+        "text": "narudžbenica"
+      },
+      {
+        "id": "milestone",
+        "ja": "マイルストーン",
+        "text": "etapa"
+      },
+      {
+        "id": "specification",
+        "ja": "仕様書",
+        "text": "specifikacija"
+      },
+      {
+        "id": "acceptance",
+        "ja": "検収",
+        "text": "primopredaja"
+      },
+      {
+        "id": "unit-price",
+        "ja": "単価",
+        "text": "jedinična cijena"
+      },
+      {
+        "id": "bank-transfer",
+        "ja": "振込",
+        "text": "bankovni prijenos"
+      }
+    ],
+    "travel": [
+      {
+        "id": "otoshi",
+        "ja": "お通し",
+        "text": "predjelo uz sjedenje"
+      },
+      {
+        "id": "limited-express",
+        "ja": "特急",
+        "text": "brzi vlak"
+      },
+      {
+        "id": "reserved-seat",
+        "ja": "指定席",
+        "text": "rezervirano sjedalo"
+      },
+      {
+        "id": "non-reserved",
+        "ja": "自由席",
+        "text": "slobodno sjedalo"
+      },
+      {
+        "id": "ticket-gate",
+        "ja": "改札",
+        "text": "ulaz s kartom"
+      },
+      {
+        "id": "one-way",
+        "ja": "片道",
+        "text": "u jednom smjeru"
+      },
+      {
+        "id": "round-trip",
+        "ja": "往復",
+        "text": "povratna karta"
+      },
+      {
+        "id": "transfer",
+        "ja": "乗り換え",
+        "text": "presjedanje"
+      },
+      {
+        "id": "private-room",
+        "ja": "個室",
+        "text": "zasebna soba"
+      },
+      {
+        "id": "non-smoking",
+        "ja": "禁煙",
+        "text": "zabranjeno pušenje"
+      },
+      {
+        "id": "cold-water",
+        "ja": "お冷や",
+        "text": "besplatna hladna voda"
+      },
+      {
+        "id": "allergen-label",
+        "ja": "アレルギー表示",
+        "text": "informacije o alergenima"
+      }
+    ]
+  }
+}

@@ -1,0 +1,302 @@
+{
+  "id": "ru",
+  "label": "ロシア語",
+  "nativeLabel": "Русский",
+  "sttLocale": "ru-RU",
+  "ttsVoiceLang": "ru-RU",
+  "scenarios": {
+    "general": [
+      {
+        "id": "konbini",
+        "ja": "コンビニ",
+        "text": "магазин у дома"
+      },
+      {
+        "id": "takuhai",
+        "ja": "宅配便",
+        "text": "доставка посылки"
+      },
+      {
+        "id": "mynumber",
+        "ja": "マイナンバー",
+        "text": "личный номер"
+      },
+      {
+        "id": "consumption-tax",
+        "ja": "消費税",
+        "text": "налог на потребление"
+      }
+    ],
+    "medical": [
+      {
+        "id": "pressure-ulcer",
+        "ja": "褥瘡",
+        "text": "пролежень"
+      },
+      {
+        "id": "repositioning",
+        "ja": "体位変換",
+        "text": "смена положения"
+      },
+      {
+        "id": "vital-signs",
+        "ja": "バイタルサイン",
+        "text": "жизненные показатели"
+      },
+      {
+        "id": "medication-check",
+        "ja": "服薬確認",
+        "text": "проверка лекарств"
+      },
+      {
+        "id": "spo2",
+        "ja": "SpO2",
+        "text": "насыщение кислородом"
+      },
+      {
+        "id": "appetite-loss",
+        "ja": "食欲不振",
+        "text": "потеря аппетита"
+      },
+      {
+        "id": "blood-pressure",
+        "ja": "血圧",
+        "text": "артериальное давление"
+      },
+      {
+        "id": "body-temperature",
+        "ja": "体温",
+        "text": "температура тела"
+      },
+      {
+        "id": "catheter",
+        "ja": "カテーテル",
+        "text": "катетер"
+      },
+      {
+        "id": "insulin",
+        "ja": "インスリン",
+        "text": "инсулин"
+      },
+      {
+        "id": "antibiotic",
+        "ja": "抗菌薬",
+        "text": "антибиотик"
+      },
+      {
+        "id": "nurse-call",
+        "ja": "ナースコール",
+        "text": "вызов медсестры"
+      },
+      {
+        "id": "swallowing",
+        "ja": "嚥下",
+        "text": "глотание"
+      },
+      {
+        "id": "aspiration",
+        "ja": "誤嚥",
+        "text": "аспирация"
+      },
+      {
+        "id": "sputum",
+        "ja": "喀痰",
+        "text": "мокрота"
+      },
+      {
+        "id": "suction",
+        "ja": "吸引",
+        "text": "отсасывание"
+      },
+      {
+        "id": "dressing",
+        "ja": "ドレッシング",
+        "text": "повязка на рану"
+      },
+      {
+        "id": "care-required",
+        "ja": "要介護",
+        "text": "нужен уход"
+      },
+      {
+        "id": "support-required",
+        "ja": "要支援",
+        "text": "нужна поддержка"
+      },
+      {
+        "id": "care-level",
+        "ja": "要介護認定",
+        "text": "оценка уровня ухода"
+      },
+      {
+        "id": "day-service",
+        "ja": "デイサービス",
+        "text": "дневной уход"
+      },
+      {
+        "id": "care-manager",
+        "ja": "ケアマネ",
+        "text": "координатор ухода"
+      },
+      {
+        "id": "short-stay",
+        "ja": "ショートステイ",
+        "text": "кратковременное пребывание"
+      },
+      {
+        "id": "medication-book",
+        "ja": "お薬手帳",
+        "text": "тетрадь лекарств"
+      },
+      {
+        "id": "history",
+        "ja": "既往歴",
+        "text": "анамнез"
+      },
+      {
+        "id": "allergy",
+        "ja": "アレルギー",
+        "text": "аллергия"
+      },
+      {
+        "id": "prescription",
+        "ja": "処方箋",
+        "text": "рецепт"
+      },
+      {
+        "id": "nrs",
+        "ja": "NRS",
+        "text": "оценка боли"
+      }
+    ],
+    "business": [
+      {
+        "id": "quotation",
+        "ja": "見積書",
+        "text": "смета"
+      },
+      {
+        "id": "competitive-bid",
+        "ja": "相見積もり",
+        "text": "сравнительная смета"
+      },
+      {
+        "id": "qualified-invoice",
+        "ja": "インボイス",
+        "text": "квалифицированный счёт"
+      },
+      {
+        "id": "invoice",
+        "ja": "請求書",
+        "text": "счёт"
+      },
+      {
+        "id": "delivery-date",
+        "ja": "納期",
+        "text": "срок поставки"
+      },
+      {
+        "id": "nda",
+        "ja": "秘密保持契約",
+        "text": "соглашение о неразглашении"
+      },
+      {
+        "id": "contract",
+        "ja": "契約書",
+        "text": "договор"
+      },
+      {
+        "id": "purchase-order",
+        "ja": "発注書",
+        "text": "заказ на поставку"
+      },
+      {
+        "id": "milestone",
+        "ja": "マイルストーン",
+        "text": "этап"
+      },
+      {
+        "id": "specification",
+        "ja": "仕様書",
+        "text": "спецификация"
+      },
+      {
+        "id": "acceptance",
+        "ja": "検収",
+        "text": "приёмка"
+      },
+      {
+        "id": "unit-price",
+        "ja": "単価",
+        "text": "цена за единицу"
+      },
+      {
+        "id": "bank-transfer",
+        "ja": "振込",
+        "text": "банковский перевод"
+      }
+    ],
+    "travel": [
+      {
+        "id": "otoshi",
+        "ja": "お通し",
+        "text": "платная закуска за место"
+      },
+      {
+        "id": "limited-express",
+        "ja": "特急",
+        "text": "скорый поезд"
+      },
+      {
+        "id": "reserved-seat",
+        "ja": "指定席",
+        "text": "место с бронированием"
+      },
+      {
+        "id": "non-reserved",
+        "ja": "自由席",
+        "text": "свободное место"
+      },
+      {
+        "id": "ticket-gate",
+        "ja": "改札",
+        "text": "турникет"
+      },
+      {
+        "id": "one-way",
+        "ja": "片道",
+        "text": "в одну сторону"
+      },
+      {
+        "id": "round-trip",
+        "ja": "往復",
+        "text": "туда и обратно"
+      },
+      {
+        "id": "transfer",
+        "ja": "乗り換え",
+        "text": "пересадка"
+      },
+      {
+        "id": "private-room",
+        "ja": "個室",
+        "text": "отдельная комната"
+      },
+      {
+        "id": "non-smoking",
+        "ja": "禁煙",
+        "text": "для некурящих"
+      },
+      {
+        "id": "cold-water",
+        "ja": "お冷や",
+        "text": "бесплатная холодная вода"
+      },
+      {
+        "id": "allergen-label",
+        "ja": "アレルギー表示",
+        "text": "информация об аллергенах"
+      }
+    ]
+  }
+}

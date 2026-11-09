@@ -1,0 +1,302 @@
+{
+  "id": "hi",
+  "label": "ヒンディー語",
+  "nativeLabel": "हिन्दी",
+  "sttLocale": "hi-IN",
+  "ttsVoiceLang": "hi-IN",
+  "scenarios": {
+    "general": [
+      {
+        "id": "konbini",
+        "ja": "コンビニ",
+        "text": "सुविधा स्टोर"
+      },
+      {
+        "id": "takuhai",
+        "ja": "宅配便",
+        "text": "पार्सल डिलीवरी"
+      },
+      {
+        "id": "mynumber",
+        "ja": "マイナンバー",
+        "text": "व्यक्तिगत नंबर"
+      },
+      {
+        "id": "consumption-tax",
+        "ja": "消費税",
+        "text": "उपभोग कर"
+      }
+    ],
+    "medical": [
+      {
+        "id": "pressure-ulcer",
+        "ja": "褥瘡",
+        "text": "शैय्या घाव"
+      },
+      {
+        "id": "repositioning",
+        "ja": "体位変換",
+        "text": "स्थिति बदलना"
+      },
+      {
+        "id": "vital-signs",
+        "ja": "バイタルサイン",
+        "text": "जीवन संकेत"
+      },
+      {
+        "id": "medication-check",
+        "ja": "服薬確認",
+        "text": "दवा की जाँच"
+      },
+      {
+        "id": "spo2",
+        "ja": "SpO2",
+        "text": "ऑक्सीजन संतृप्ति"
+      },
+      {
+        "id": "appetite-loss",
+        "ja": "食欲不振",
+        "text": "भूख न लगना"
+      },
+      {
+        "id": "blood-pressure",
+        "ja": "血圧",
+        "text": "रक्तचाप"
+      },
+      {
+        "id": "body-temperature",
+        "ja": "体温",
+        "text": "शरीर का तापमान"
+      },
+      {
+        "id": "catheter",
+        "ja": "カテーテル",
+        "text": "कैथेटर"
+      },
+      {
+        "id": "insulin",
+        "ja": "インスリン",
+        "text": "इंसुलिन"
+      },
+      {
+        "id": "antibiotic",
+        "ja": "抗菌薬",
+        "text": "एंटीबायोटिक"
+      },
+      {
+        "id": "nurse-call",
+        "ja": "ナースコール",
+        "text": "नर्स कॉल"
+      },
+      {
+        "id": "swallowing",
+        "ja": "嚥下",
+        "text": "निगलना"
+      },
+      {
+        "id": "aspiration",
+        "ja": "誤嚥",
+        "text": "श्वास में जाना"
+      },
+      {
+        "id": "sputum",
+        "ja": "喀痰",
+        "text": "कफ"
+      },
+      {
+        "id": "suction",
+        "ja": "吸引",
+        "text": "स्राव निकालना"
+      },
+      {
+        "id": "dressing",
+        "ja": "ドレッシング",
+        "text": "घाव की पट्टी"
+      },
+      {
+        "id": "care-required",
+        "ja": "要介護",
+        "text": "देखभाल ज़रूरी"
+      },
+      {
+        "id": "support-required",
+        "ja": "要支援",
+        "text": "सहायता ज़रूरी"
+      },
+      {
+        "id": "care-level",
+        "ja": "要介護認定",
+        "text": "देखभाल स्तर का प्रमाण"
+      },
+      {
+        "id": "day-service",
+        "ja": "デイサービス",
+        "text": "दिन की देखभाल"
+      },
+      {
+        "id": "care-manager",
+        "ja": "ケアマネ",
+        "text": "देखभाल प्रबंधक"
+      },
+      {
+        "id": "short-stay",
+        "ja": "ショートステイ",
+        "text": "अल्प प्रवास"
+      },
+      {
+        "id": "medication-book",
+        "ja": "お薬手帳",
+        "text": "दवा पुस्तिका"
+      },
+      {
+        "id": "history",
+        "ja": "既往歴",
+        "text": "चिकित्सा इतिहास"
+      },
+      {
+        "id": "allergy",
+        "ja": "アレルギー",
+        "text": "एलर्जी"
+      },
+      {
+        "id": "prescription",
+        "ja": "処方箋",
+        "text": "नुस्खा"
+      },
+      {
+        "id": "nrs",
+        "ja": "NRS",
+        "text": "दर्द का अंक"
+      }
+    ],
+    "business": [
+      {
+        "id": "quotation",
+        "ja": "見積書",
+        "text": "कोटेशन"
+      },
+      {
+        "id": "competitive-bid",
+        "ja": "相見積もり",
+        "text": "तुलनात्मक कोटेशन"
+      },
+      {
+        "id": "qualified-invoice",
+        "ja": "インボイス",
+        "text": "मान्य चालान"
+      },
+      {
+        "id": "invoice",
+        "ja": "請求書",
+        "text": "चालान"
+      },
+      {
+        "id": "delivery-date",
+        "ja": "納期",
+        "text": "डिलीवरी की तारीख"
+      },
+      {
+        "id": "nda",
+        "ja": "秘密保持契約",
+        "text": "गोपनीयता समझौता"
+      },
+      {
+        "id": "contract",
+        "ja": "契約書",
+        "text": "अनुबंध"
+      },
+      {
+        "id": "purchase-order",
+        "ja": "発注書",
+        "text": "खरीद आदेश"
+      },
+      {
+        "id": "milestone",
+        "ja": "マイルストーン",
+        "text": "मील का पत्थर"
+      },
+      {
+        "id": "specification",
+        "ja": "仕様書",
+        "text": "विनिर्देश"
+      },
+      {
+        "id": "acceptance",
+        "ja": "検収",
+        "text": "स्वीकृति"
+      },
+      {
+        "id": "unit-price",
+        "ja": "単価",
+        "text": "इकाई मूल्य"
+      },
+      {
+        "id": "bank-transfer",
+        "ja": "振込",
+        "text": "बैंक हस्तांतरण"
+      }
+    ],
+    "travel": [
+      {
+        "id": "otoshi",
+        "ja": "お通し",
+        "text": "बैठने का ऐपेटाइज़र"
+      },
+      {
+        "id": "limited-express",
+        "ja": "特急",
+        "text": "एक्सप्रेस ट्रेन"
+      },
+      {
+        "id": "reserved-seat",
+        "ja": "指定席",
+        "text": "आरक्षित सीट"
+      },
+      {
+        "id": "non-reserved",
+        "ja": "自由席",
+        "text": "अनारक्षित सीट"
+      },
+      {
+        "id": "ticket-gate",
+        "ja": "改札",
+        "text": "टिकट गेट"
+      },
+      {
+        "id": "one-way",
+        "ja": "片道",
+        "text": "एक तरफ़"
+      },
+      {
+        "id": "round-trip",
+        "ja": "往復",
+        "text": "आना-जाना"
+      },
+      {
+        "id": "transfer",
+        "ja": "乗り換え",
+        "text": "ट्रेन बदलना"
+      },
+      {
+        "id": "private-room",
+        "ja": "個室",
+        "text": "निजी कमरा"
+      },
+      {
+        "id": "non-smoking",
+        "ja": "禁煙",
+        "text": "धूम्रपान निषेध"
+      },
+      {
+        "id": "cold-water",
+        "ja": "お冷や",
+        "text": "मुफ़्त ठंडा पानी"
+      },
+      {
+        "id": "allergen-label",
+        "ja": "アレルギー表示",
+        "text": "एलर्जन की जानकारी"
+      }
+    ]
+  }
+}

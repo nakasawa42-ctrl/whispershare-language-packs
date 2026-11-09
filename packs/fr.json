@@ -1,0 +1,302 @@
+{
+  "id": "fr",
+  "label": "フランス語",
+  "nativeLabel": "Français",
+  "sttLocale": "fr-FR",
+  "ttsVoiceLang": "fr-FR",
+  "scenarios": {
+    "general": [
+      {
+        "id": "konbini",
+        "ja": "コンビニ",
+        "text": "supérette"
+      },
+      {
+        "id": "takuhai",
+        "ja": "宅配便",
+        "text": "livraison de colis"
+      },
+      {
+        "id": "mynumber",
+        "ja": "マイナンバー",
+        "text": "numéro personnel"
+      },
+      {
+        "id": "consumption-tax",
+        "ja": "消費税",
+        "text": "taxe à la consommation"
+      }
+    ],
+    "medical": [
+      {
+        "id": "pressure-ulcer",
+        "ja": "褥瘡",
+        "text": "escarre"
+      },
+      {
+        "id": "repositioning",
+        "ja": "体位変換",
+        "text": "changement de position"
+      },
+      {
+        "id": "vital-signs",
+        "ja": "バイタルサイン",
+        "text": "signes vitaux"
+      },
+      {
+        "id": "medication-check",
+        "ja": "服薬確認",
+        "text": "vérification des médicaments"
+      },
+      {
+        "id": "spo2",
+        "ja": "SpO2",
+        "text": "saturation en oxygène"
+      },
+      {
+        "id": "appetite-loss",
+        "ja": "食欲不振",
+        "text": "perte d'appétit"
+      },
+      {
+        "id": "blood-pressure",
+        "ja": "血圧",
+        "text": "tension artérielle"
+      },
+      {
+        "id": "body-temperature",
+        "ja": "体温",
+        "text": "température corporelle"
+      },
+      {
+        "id": "catheter",
+        "ja": "カテーテル",
+        "text": "cathéter"
+      },
+      {
+        "id": "insulin",
+        "ja": "インスリン",
+        "text": "insuline"
+      },
+      {
+        "id": "antibiotic",
+        "ja": "抗菌薬",
+        "text": "antibiotique"
+      },
+      {
+        "id": "nurse-call",
+        "ja": "ナースコール",
+        "text": "appel infirmier"
+      },
+      {
+        "id": "swallowing",
+        "ja": "嚥下",
+        "text": "déglutition"
+      },
+      {
+        "id": "aspiration",
+        "ja": "誤嚥",
+        "text": "fausse route"
+      },
+      {
+        "id": "sputum",
+        "ja": "喀痰",
+        "text": "expectoration"
+      },
+      {
+        "id": "suction",
+        "ja": "吸引",
+        "text": "aspiration bronchique"
+      },
+      {
+        "id": "dressing",
+        "ja": "ドレッシング",
+        "text": "pansement"
+      },
+      {
+        "id": "care-required",
+        "ja": "要介護",
+        "text": "besoin de soins"
+      },
+      {
+        "id": "support-required",
+        "ja": "要支援",
+        "text": "besoin d'aide"
+      },
+      {
+        "id": "care-level",
+        "ja": "要介護認定",
+        "text": "évaluation de la dépendance"
+      },
+      {
+        "id": "day-service",
+        "ja": "デイサービス",
+        "text": "accueil de jour"
+      },
+      {
+        "id": "care-manager",
+        "ja": "ケアマネ",
+        "text": "gestionnaire de soins"
+      },
+      {
+        "id": "short-stay",
+        "ja": "ショートステイ",
+        "text": "séjour temporaire"
+      },
+      {
+        "id": "medication-book",
+        "ja": "お薬手帳",
+        "text": "carnet de médicaments"
+      },
+      {
+        "id": "history",
+        "ja": "既往歴",
+        "text": "antécédents"
+      },
+      {
+        "id": "allergy",
+        "ja": "アレルギー",
+        "text": "allergie"
+      },
+      {
+        "id": "prescription",
+        "ja": "処方箋",
+        "text": "ordonnance"
+      },
+      {
+        "id": "nrs",
+        "ja": "NRS",
+        "text": "score de douleur"
+      }
+    ],
+    "business": [
+      {
+        "id": "quotation",
+        "ja": "見積書",
+        "text": "devis"
+      },
+      {
+        "id": "competitive-bid",
+        "ja": "相見積もり",
+        "text": "devis comparatif"
+      },
+      {
+        "id": "qualified-invoice",
+        "ja": "インボイス",
+        "text": "facture conforme"
+      },
+      {
+        "id": "invoice",
+        "ja": "請求書",
+        "text": "facture"
+      },
+      {
+        "id": "delivery-date",
+        "ja": "納期",
+        "text": "délai de livraison"
+      },
+      {
+        "id": "nda",
+        "ja": "秘密保持契約",
+        "text": "accord de confidentialité"
+      },
+      {
+        "id": "contract",
+        "ja": "契約書",
+        "text": "contrat"
+      },
+      {
+        "id": "purchase-order",
+        "ja": "発注書",
+        "text": "bon de commande"
+      },
+      {
+        "id": "milestone",
+        "ja": "マイルストーン",
+        "text": "jalon"
+      },
+      {
+        "id": "specification",
+        "ja": "仕様書",
+        "text": "cahier des charges"
+      },
+      {
+        "id": "acceptance",
+        "ja": "検収",
+        "text": "réception"
+      },
+      {
+        "id": "unit-price",
+        "ja": "単価",
+        "text": "prix unitaire"
+      },
+      {
+        "id": "bank-transfer",
+        "ja": "振込",
+        "text": "virement"
+      }
+    ],
+    "travel": [
+      {
+        "id": "otoshi",
+        "ja": "お通し",
+        "text": "amuse-bouche d'office"
+      },
+      {
+        "id": "limited-express",
+        "ja": "特急",
+        "text": "express"
+      },
+      {
+        "id": "reserved-seat",
+        "ja": "指定席",
+        "text": "place réservée"
+      },
+      {
+        "id": "non-reserved",
+        "ja": "自由席",
+        "text": "place non réservée"
+      },
+      {
+        "id": "ticket-gate",
+        "ja": "改札",
+        "text": "portillon"
+      },
+      {
+        "id": "one-way",
+        "ja": "片道",
+        "text": "aller simple"
+      },
+      {
+        "id": "round-trip",
+        "ja": "往復",
+        "text": "aller-retour"
+      },
+      {
+        "id": "transfer",
+        "ja": "乗り換え",
+        "text": "correspondance"
+      },
+      {
+        "id": "private-room",
+        "ja": "個室",
+        "text": "salle privée"
+      },
+      {
+        "id": "non-smoking",
+        "ja": "禁煙",
+        "text": "non-fumeur"
+      },
+      {
+        "id": "cold-water",
+        "ja": "お冷や",
+        "text": "eau fraîche offerte"
+      },
+      {
+        "id": "allergen-label",
+        "ja": "アレルギー表示",
+        "text": "information sur les allergènes"
+      }
+    ]
+  }
+}

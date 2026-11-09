@@ -1,0 +1,302 @@
+{
+  "id": "ar",
+  "label": "アラビア語",
+  "nativeLabel": "العربية",
+  "sttLocale": "ar-SA",
+  "ttsVoiceLang": "ar-SA",
+  "scenarios": {
+    "general": [
+      {
+        "id": "konbini",
+        "ja": "コンビニ",
+        "text": "متجر صغير"
+      },
+      {
+        "id": "takuhai",
+        "ja": "宅配便",
+        "text": "توصيل الطرود"
+      },
+      {
+        "id": "mynumber",
+        "ja": "マイナンバー",
+        "text": "الرقم الشخصي"
+      },
+      {
+        "id": "consumption-tax",
+        "ja": "消費税",
+        "text": "ضريبة الاستهلاك"
+      }
+    ],
+    "medical": [
+      {
+        "id": "pressure-ulcer",
+        "ja": "褥瘡",
+        "text": "قرحة الضغط"
+      },
+      {
+        "id": "repositioning",
+        "ja": "体位変換",
+        "text": "تغيير الوضعية"
+      },
+      {
+        "id": "vital-signs",
+        "ja": "バイタルサイン",
+        "text": "العلامات الحيوية"
+      },
+      {
+        "id": "medication-check",
+        "ja": "服薬確認",
+        "text": "التحقق من الدواء"
+      },
+      {
+        "id": "spo2",
+        "ja": "SpO2",
+        "text": "تشبع الأكسجين"
+      },
+      {
+        "id": "appetite-loss",
+        "ja": "食欲不振",
+        "text": "فقدان الشهية"
+      },
+      {
+        "id": "blood-pressure",
+        "ja": "血圧",
+        "text": "ضغط الدم"
+      },
+      {
+        "id": "body-temperature",
+        "ja": "体温",
+        "text": "درجة حرارة الجسم"
+      },
+      {
+        "id": "catheter",
+        "ja": "カテーテル",
+        "text": "قسطرة"
+      },
+      {
+        "id": "insulin",
+        "ja": "インスリン",
+        "text": "إنسولين"
+      },
+      {
+        "id": "antibiotic",
+        "ja": "抗菌薬",
+        "text": "مضاد حيوي"
+      },
+      {
+        "id": "nurse-call",
+        "ja": "ナースコール",
+        "text": "جرس استدعاء الممرض"
+      },
+      {
+        "id": "swallowing",
+        "ja": "嚥下",
+        "text": "البلع"
+      },
+      {
+        "id": "aspiration",
+        "ja": "誤嚥",
+        "text": "الشرقة"
+      },
+      {
+        "id": "sputum",
+        "ja": "喀痰",
+        "text": "بلغم"
+      },
+      {
+        "id": "suction",
+        "ja": "吸引",
+        "text": "شفط الإفرازات"
+      },
+      {
+        "id": "dressing",
+        "ja": "ドレッシング",
+        "text": "ضماد الجرح"
+      },
+      {
+        "id": "care-required",
+        "ja": "要介護",
+        "text": "بحاجة إلى رعاية"
+      },
+      {
+        "id": "support-required",
+        "ja": "要支援",
+        "text": "بحاجة إلى دعم"
+      },
+      {
+        "id": "care-level",
+        "ja": "要介護認定",
+        "text": "اعتماد مستوى الرعاية"
+      },
+      {
+        "id": "day-service",
+        "ja": "デイサービス",
+        "text": "رعاية نهارية"
+      },
+      {
+        "id": "care-manager",
+        "ja": "ケアマネ",
+        "text": "مدير الرعاية"
+      },
+      {
+        "id": "short-stay",
+        "ja": "ショートステイ",
+        "text": "إقامة قصيرة"
+      },
+      {
+        "id": "medication-book",
+        "ja": "お薬手帳",
+        "text": "دفتر الأدوية"
+      },
+      {
+        "id": "history",
+        "ja": "既往歴",
+        "text": "التاريخ المرضي"
+      },
+      {
+        "id": "allergy",
+        "ja": "アレルギー",
+        "text": "حساسية"
+      },
+      {
+        "id": "prescription",
+        "ja": "処方箋",
+        "text": "وصفة طبية"
+      },
+      {
+        "id": "nrs",
+        "ja": "NRS",
+        "text": "درجة الألم"
+      }
+    ],
+    "business": [
+      {
+        "id": "quotation",
+        "ja": "見積書",
+        "text": "عرض سعر"
+      },
+      {
+        "id": "competitive-bid",
+        "ja": "相見積もり",
+        "text": "عروض أسعار مقارنة"
+      },
+      {
+        "id": "qualified-invoice",
+        "ja": "インボイス",
+        "text": "فاتورة مؤهلة"
+      },
+      {
+        "id": "invoice",
+        "ja": "請求書",
+        "text": "فاتورة"
+      },
+      {
+        "id": "delivery-date",
+        "ja": "納期",
+        "text": "موعد التسليم"
+      },
+      {
+        "id": "nda",
+        "ja": "秘密保持契約",
+        "text": "اتفاقية سرية"
+      },
+      {
+        "id": "contract",
+        "ja": "契約書",
+        "text": "عقد"
+      },
+      {
+        "id": "purchase-order",
+        "ja": "発注書",
+        "text": "أمر شراء"
+      },
+      {
+        "id": "milestone",
+        "ja": "マイルストーン",
+        "text": "مرحلة رئيسية"
+      },
+      {
+        "id": "specification",
+        "ja": "仕様書",
+        "text": "مواصفات"
+      },
+      {
+        "id": "acceptance",
+        "ja": "検収",
+        "text": "استلام وقبول"
+      },
+      {
+        "id": "unit-price",
+        "ja": "単価",
+        "text": "سعر الوحدة"
+      },
+      {
+        "id": "bank-transfer",
+        "ja": "振込",
+        "text": "تحويل بنكي"
+      }
+    ],
+    "travel": [
+      {
+        "id": "otoshi",
+        "ja": "お通し",
+        "text": "مقبلات برسوم جلوس"
+      },
+      {
+        "id": "limited-express",
+        "ja": "特急",
+        "text": "قطار سريع"
+      },
+      {
+        "id": "reserved-seat",
+        "ja": "指定席",
+        "text": "مقعد محجوز"
+      },
+      {
+        "id": "non-reserved",
+        "ja": "自由席",
+        "text": "مقعد غير محجوز"
+      },
+      {
+        "id": "ticket-gate",
+        "ja": "改札",
+        "text": "بوابة التذاكر"
+      },
+      {
+        "id": "one-way",
+        "ja": "片道",
+        "text": "ذهاب فقط"
+      },
+      {
+        "id": "round-trip",
+        "ja": "往復",
+        "text": "ذهاب وعودة"
+      },
+      {
+        "id": "transfer",
+        "ja": "乗り換え",
+        "text": "تبديل القطار"
+      },
+      {
+        "id": "private-room",
+        "ja": "個室",
+        "text": "غرفة خاصة"
+      },
+      {
+        "id": "non-smoking",
+        "ja": "禁煙",
+        "text": "ممنوع التدخين"
+      },
+      {
+        "id": "cold-water",
+        "ja": "お冷や",
+        "text": "ماء بارد مجاني"
+      },
+      {
+        "id": "allergen-label",
+        "ja": "アレルギー表示",
+        "text": "معلومات مسببات الحساسية"
+      }
+    ]
+  }
+}

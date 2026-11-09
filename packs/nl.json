@@ -1,0 +1,302 @@
+{
+  "id": "nl",
+  "label": "オランダ語",
+  "nativeLabel": "Nederlands",
+  "sttLocale": "nl-NL",
+  "ttsVoiceLang": "nl-NL",
+  "scenarios": {
+    "general": [
+      {
+        "id": "konbini",
+        "ja": "コンビニ",
+        "text": "gemakswinkel"
+      },
+      {
+        "id": "takuhai",
+        "ja": "宅配便",
+        "text": "pakketbezorging"
+      },
+      {
+        "id": "mynumber",
+        "ja": "マイナンバー",
+        "text": "persoonlijk nummer"
+      },
+      {
+        "id": "consumption-tax",
+        "ja": "消費税",
+        "text": "verbruiksbelasting"
+      }
+    ],
+    "medical": [
+      {
+        "id": "pressure-ulcer",
+        "ja": "褥瘡",
+        "text": "decubitus"
+      },
+      {
+        "id": "repositioning",
+        "ja": "体位変換",
+        "text": "wisselligging"
+      },
+      {
+        "id": "vital-signs",
+        "ja": "バイタルサイン",
+        "text": "vitale functies"
+      },
+      {
+        "id": "medication-check",
+        "ja": "服薬確認",
+        "text": "medicatiecontrole"
+      },
+      {
+        "id": "spo2",
+        "ja": "SpO2",
+        "text": "zuurstofsaturatie"
+      },
+      {
+        "id": "appetite-loss",
+        "ja": "食欲不振",
+        "text": "verlies van eetlust"
+      },
+      {
+        "id": "blood-pressure",
+        "ja": "血圧",
+        "text": "bloeddruk"
+      },
+      {
+        "id": "body-temperature",
+        "ja": "体温",
+        "text": "lichaamstemperatuur"
+      },
+      {
+        "id": "catheter",
+        "ja": "カテーテル",
+        "text": "katheter"
+      },
+      {
+        "id": "insulin",
+        "ja": "インスリン",
+        "text": "insuline"
+      },
+      {
+        "id": "antibiotic",
+        "ja": "抗菌薬",
+        "text": "antibioticum"
+      },
+      {
+        "id": "nurse-call",
+        "ja": "ナースコール",
+        "text": "verpleegoproep"
+      },
+      {
+        "id": "swallowing",
+        "ja": "嚥下",
+        "text": "slikken"
+      },
+      {
+        "id": "aspiration",
+        "ja": "誤嚥",
+        "text": "aspiratie"
+      },
+      {
+        "id": "sputum",
+        "ja": "喀痰",
+        "text": "sputum"
+      },
+      {
+        "id": "suction",
+        "ja": "吸引",
+        "text": "uitsuging"
+      },
+      {
+        "id": "dressing",
+        "ja": "ドレッシング",
+        "text": "wondverband"
+      },
+      {
+        "id": "care-required",
+        "ja": "要介護",
+        "text": "zorg nodig"
+      },
+      {
+        "id": "support-required",
+        "ja": "要支援",
+        "text": "ondersteuning nodig"
+      },
+      {
+        "id": "care-level",
+        "ja": "要介護認定",
+        "text": "zorgindicatie"
+      },
+      {
+        "id": "day-service",
+        "ja": "デイサービス",
+        "text": "dagopvang"
+      },
+      {
+        "id": "care-manager",
+        "ja": "ケアマネ",
+        "text": "zorgcoördinator"
+      },
+      {
+        "id": "short-stay",
+        "ja": "ショートステイ",
+        "text": "kort verblijf"
+      },
+      {
+        "id": "medication-book",
+        "ja": "お薬手帳",
+        "text": "medicatieboekje"
+      },
+      {
+        "id": "history",
+        "ja": "既往歴",
+        "text": "voorgeschiedenis"
+      },
+      {
+        "id": "allergy",
+        "ja": "アレルギー",
+        "text": "allergie"
+      },
+      {
+        "id": "prescription",
+        "ja": "処方箋",
+        "text": "recept"
+      },
+      {
+        "id": "nrs",
+        "ja": "NRS",
+        "text": "pijnscore"
+      }
+    ],
+    "business": [
+      {
+        "id": "quotation",
+        "ja": "見積書",
+        "text": "offerte"
+      },
+      {
+        "id": "competitive-bid",
+        "ja": "相見積もり",
+        "text": "vergelijkende offerte"
+      },
+      {
+        "id": "qualified-invoice",
+        "ja": "インボイス",
+        "text": "geldige factuur"
+      },
+      {
+        "id": "invoice",
+        "ja": "請求書",
+        "text": "factuur"
+      },
+      {
+        "id": "delivery-date",
+        "ja": "納期",
+        "text": "leverdatum"
+      },
+      {
+        "id": "nda",
+        "ja": "秘密保持契約",
+        "text": "geheimhoudingsovereenkomst"
+      },
+      {
+        "id": "contract",
+        "ja": "契約書",
+        "text": "contract"
+      },
+      {
+        "id": "purchase-order",
+        "ja": "発注書",
+        "text": "inkooporder"
+      },
+      {
+        "id": "milestone",
+        "ja": "マイルストーン",
+        "text": "mijlpaal"
+      },
+      {
+        "id": "specification",
+        "ja": "仕様書",
+        "text": "specificatie"
+      },
+      {
+        "id": "acceptance",
+        "ja": "検収",
+        "text": "oplevering"
+      },
+      {
+        "id": "unit-price",
+        "ja": "単価",
+        "text": "stukprijs"
+      },
+      {
+        "id": "bank-transfer",
+        "ja": "振込",
+        "text": "overschrijving"
+      }
+    ],
+    "travel": [
+      {
+        "id": "otoshi",
+        "ja": "お通し",
+        "text": "verplichte voorgerecht"
+      },
+      {
+        "id": "limited-express",
+        "ja": "特急",
+        "text": "sneltrein"
+      },
+      {
+        "id": "reserved-seat",
+        "ja": "指定席",
+        "text": "gereserveerde plaats"
+      },
+      {
+        "id": "non-reserved",
+        "ja": "自由席",
+        "text": "vrije plaats"
+      },
+      {
+        "id": "ticket-gate",
+        "ja": "改札",
+        "text": "kaartpoortje"
+      },
+      {
+        "id": "one-way",
+        "ja": "片道",
+        "text": "enkele reis"
+      },
+      {
+        "id": "round-trip",
+        "ja": "往復",
+        "text": "retour"
+      },
+      {
+        "id": "transfer",
+        "ja": "乗り換え",
+        "text": "overstap"
+      },
+      {
+        "id": "private-room",
+        "ja": "個室",
+        "text": "privézaal"
+      },
+      {
+        "id": "non-smoking",
+        "ja": "禁煙",
+        "text": "niet-roken"
+      },
+      {
+        "id": "cold-water",
+        "ja": "お冷や",
+        "text": "gratis koud water"
+      },
+      {
+        "id": "allergen-label",
+        "ja": "アレルギー表示",
+        "text": "allergeneninformatie"
+      }
+    ]
+  }
+}

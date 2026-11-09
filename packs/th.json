@@ -1,0 +1,302 @@
+{
+  "id": "th",
+  "label": "タイ語",
+  "nativeLabel": "ไทย",
+  "sttLocale": "th-TH",
+  "ttsVoiceLang": "th-TH",
+  "scenarios": {
+    "general": [
+      {
+        "id": "konbini",
+        "ja": "コンビニ",
+        "text": "ร้านสะดวกซื้อ"
+      },
+      {
+        "id": "takuhai",
+        "ja": "宅配便",
+        "text": "บริการจัดส่งพัสดุ"
+      },
+      {
+        "id": "mynumber",
+        "ja": "マイナンバー",
+        "text": "หมายเลขประจำตัว"
+      },
+      {
+        "id": "consumption-tax",
+        "ja": "消費税",
+        "text": "ภาษีการบริโภค"
+      }
+    ],
+    "medical": [
+      {
+        "id": "pressure-ulcer",
+        "ja": "褥瘡",
+        "text": "แผลกดทับ"
+      },
+      {
+        "id": "repositioning",
+        "ja": "体位変換",
+        "text": "การพลิกตัว"
+      },
+      {
+        "id": "vital-signs",
+        "ja": "バイタルサイン",
+        "text": "สัญญาณชีพ"
+      },
+      {
+        "id": "medication-check",
+        "ja": "服薬確認",
+        "text": "การตรวจยา"
+      },
+      {
+        "id": "spo2",
+        "ja": "SpO2",
+        "text": "ความอิ่มตัวของออกซิเจน"
+      },
+      {
+        "id": "appetite-loss",
+        "ja": "食欲不振",
+        "text": "ไม่อยากอาหาร"
+      },
+      {
+        "id": "blood-pressure",
+        "ja": "血圧",
+        "text": "ความดันโลหิต"
+      },
+      {
+        "id": "body-temperature",
+        "ja": "体温",
+        "text": "อุณหภูมิร่างกาย"
+      },
+      {
+        "id": "catheter",
+        "ja": "カテーテル",
+        "text": "สายสวน"
+      },
+      {
+        "id": "insulin",
+        "ja": "インスリン",
+        "text": "อินซูลิน"
+      },
+      {
+        "id": "antibiotic",
+        "ja": "抗菌薬",
+        "text": "ยาปฏิชีวนะ"
+      },
+      {
+        "id": "nurse-call",
+        "ja": "ナースコール",
+        "text": "กระดิ่งเรียกพยาบาล"
+      },
+      {
+        "id": "swallowing",
+        "ja": "嚥下",
+        "text": "การกลืน"
+      },
+      {
+        "id": "aspiration",
+        "ja": "誤嚥",
+        "text": "การสำลัก"
+      },
+      {
+        "id": "sputum",
+        "ja": "喀痰",
+        "text": "เสมหะ"
+      },
+      {
+        "id": "suction",
+        "ja": "吸引",
+        "text": "การดูดเสมหะ"
+      },
+      {
+        "id": "dressing",
+        "ja": "ドレッシング",
+        "text": "ผ้าปิดแผล"
+      },
+      {
+        "id": "care-required",
+        "ja": "要介護",
+        "text": "ต้องการการดูแล"
+      },
+      {
+        "id": "support-required",
+        "ja": "要支援",
+        "text": "ต้องการความช่วยเหลือ"
+      },
+      {
+        "id": "care-level",
+        "ja": "要介護認定",
+        "text": "การประเมินระดับการดูแล"
+      },
+      {
+        "id": "day-service",
+        "ja": "デイサービス",
+        "text": "ศูนย์ดูแลกลางวัน"
+      },
+      {
+        "id": "care-manager",
+        "ja": "ケアマネ",
+        "text": "ผู้จัดการการดูแล"
+      },
+      {
+        "id": "short-stay",
+        "ja": "ショートステイ",
+        "text": "พักระยะสั้น"
+      },
+      {
+        "id": "medication-book",
+        "ja": "お薬手帳",
+        "text": "สมุดบันทึกยา"
+      },
+      {
+        "id": "history",
+        "ja": "既往歴",
+        "text": "ประวัติการรักษา"
+      },
+      {
+        "id": "allergy",
+        "ja": "アレルギー",
+        "text": "ภูมิแพ้"
+      },
+      {
+        "id": "prescription",
+        "ja": "処方箋",
+        "text": "ใบสั่งยา"
+      },
+      {
+        "id": "nrs",
+        "ja": "NRS",
+        "text": "คะแนนความปวด"
+      }
+    ],
+    "business": [
+      {
+        "id": "quotation",
+        "ja": "見積書",
+        "text": "ใบเสนอราคา"
+      },
+      {
+        "id": "competitive-bid",
+        "ja": "相見積もり",
+        "text": "เปรียบเทียบราคา"
+      },
+      {
+        "id": "qualified-invoice",
+        "ja": "インボイス",
+        "text": "ใบกำกับภาษีที่ถูกต้อง"
+      },
+      {
+        "id": "invoice",
+        "ja": "請求書",
+        "text": "ใบแจ้งหนี้"
+      },
+      {
+        "id": "delivery-date",
+        "ja": "納期",
+        "text": "กำหนดส่ง"
+      },
+      {
+        "id": "nda",
+        "ja": "秘密保持契約",
+        "text": "สัญญาเก็บความลับ"
+      },
+      {
+        "id": "contract",
+        "ja": "契約書",
+        "text": "สัญญา"
+      },
+      {
+        "id": "purchase-order",
+        "ja": "発注書",
+        "text": "ใบสั่งซื้อ"
+      },
+      {
+        "id": "milestone",
+        "ja": "マイルストーン",
+        "text": "หลักไมล์"
+      },
+      {
+        "id": "specification",
+        "ja": "仕様書",
+        "text": "รายละเอียดงาน"
+      },
+      {
+        "id": "acceptance",
+        "ja": "検収",
+        "text": "การตรวจรับ"
+      },
+      {
+        "id": "unit-price",
+        "ja": "単価",
+        "text": "ราคาต่อหน่วย"
+      },
+      {
+        "id": "bank-transfer",
+        "ja": "振込",
+        "text": "โอนเงินผ่านธนาคาร"
+      }
+    ],
+    "travel": [
+      {
+        "id": "otoshi",
+        "ja": "お通し",
+        "text": "ค่าอาหารเรียกน้ำย่อย"
+      },
+      {
+        "id": "limited-express",
+        "ja": "特急",
+        "text": "รถด่วนพิเศษ"
+      },
+      {
+        "id": "reserved-seat",
+        "ja": "指定席",
+        "text": "ที่นั่งจอง"
+      },
+      {
+        "id": "non-reserved",
+        "ja": "自由席",
+        "text": "ที่นั่งไม่จอง"
+      },
+      {
+        "id": "ticket-gate",
+        "ja": "改札",
+        "text": "ประตูตรวจตั๋ว"
+      },
+      {
+        "id": "one-way",
+        "ja": "片道",
+        "text": "เที่ยวเดียว"
+      },
+      {
+        "id": "round-trip",
+        "ja": "往復",
+        "text": "ไปกลับ"
+      },
+      {
+        "id": "transfer",
+        "ja": "乗り換え",
+        "text": "การเปลี่ยนรถ"
+      },
+      {
+        "id": "private-room",
+        "ja": "個室",
+        "text": "ห้องส่วนตัว"
+      },
+      {
+        "id": "non-smoking",
+        "ja": "禁煙",
+        "text": "ห้ามสูบบุหรี่"
+      },
+      {
+        "id": "cold-water",
+        "ja": "お冷や",
+        "text": "น้ำเย็นบริการ"
+      },
+      {
+        "id": "allergen-label",
+        "ja": "アレルギー表示",
+        "text": "ข้อมูลสารก่อภูมิแพ้"
+      }
+    ]
+  }
+}

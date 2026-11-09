@@ -1,0 +1,302 @@
+{
+  "id": "ko",
+  "label": "韓国語",
+  "nativeLabel": "한국어",
+  "sttLocale": "ko-KR",
+  "ttsVoiceLang": "ko-KR",
+  "scenarios": {
+    "general": [
+      {
+        "id": "konbini",
+        "ja": "コンビニ",
+        "text": "편의점"
+      },
+      {
+        "id": "takuhai",
+        "ja": "宅配便",
+        "text": "택배"
+      },
+      {
+        "id": "mynumber",
+        "ja": "マイナンバー",
+        "text": "마이넘버"
+      },
+      {
+        "id": "consumption-tax",
+        "ja": "消費税",
+        "text": "소비세"
+      }
+    ],
+    "medical": [
+      {
+        "id": "pressure-ulcer",
+        "ja": "褥瘡",
+        "text": "욕창"
+      },
+      {
+        "id": "repositioning",
+        "ja": "体位変換",
+        "text": "체위 변경"
+      },
+      {
+        "id": "vital-signs",
+        "ja": "バイタルサイン",
+        "text": "생체 징후"
+      },
+      {
+        "id": "medication-check",
+        "ja": "服薬確認",
+        "text": "복약 확인"
+      },
+      {
+        "id": "spo2",
+        "ja": "SpO2",
+        "text": "산소포화도"
+      },
+      {
+        "id": "appetite-loss",
+        "ja": "食欲不振",
+        "text": "식욕 부진"
+      },
+      {
+        "id": "blood-pressure",
+        "ja": "血圧",
+        "text": "혈압"
+      },
+      {
+        "id": "body-temperature",
+        "ja": "体温",
+        "text": "체온"
+      },
+      {
+        "id": "catheter",
+        "ja": "カテーテル",
+        "text": "카테터"
+      },
+      {
+        "id": "insulin",
+        "ja": "インスリン",
+        "text": "인슐린"
+      },
+      {
+        "id": "antibiotic",
+        "ja": "抗菌薬",
+        "text": "항생제"
+      },
+      {
+        "id": "nurse-call",
+        "ja": "ナースコール",
+        "text": "간호사 호출"
+      },
+      {
+        "id": "swallowing",
+        "ja": "嚥下",
+        "text": "연하"
+      },
+      {
+        "id": "aspiration",
+        "ja": "誤嚥",
+        "text": "오연"
+      },
+      {
+        "id": "sputum",
+        "ja": "喀痰",
+        "text": "가래"
+      },
+      {
+        "id": "suction",
+        "ja": "吸引",
+        "text": "석션"
+      },
+      {
+        "id": "dressing",
+        "ja": "ドレッシング",
+        "text": "드레싱"
+      },
+      {
+        "id": "care-required",
+        "ja": "要介護",
+        "text": "요양 필요"
+      },
+      {
+        "id": "support-required",
+        "ja": "要支援",
+        "text": "지원 필요"
+      },
+      {
+        "id": "care-level",
+        "ja": "要介護認定",
+        "text": "요양 등급 인정"
+      },
+      {
+        "id": "day-service",
+        "ja": "デイサービス",
+        "text": "데이 서비스"
+      },
+      {
+        "id": "care-manager",
+        "ja": "ケアマネ",
+        "text": "케어매니저"
+      },
+      {
+        "id": "short-stay",
+        "ja": "ショートステイ",
+        "text": "단기 보호"
+      },
+      {
+        "id": "medication-book",
+        "ja": "お薬手帳",
+        "text": "약 수첩"
+      },
+      {
+        "id": "history",
+        "ja": "既往歴",
+        "text": "과거력"
+      },
+      {
+        "id": "allergy",
+        "ja": "アレルギー",
+        "text": "알레르기"
+      },
+      {
+        "id": "prescription",
+        "ja": "処方箋",
+        "text": "처방전"
+      },
+      {
+        "id": "nrs",
+        "ja": "NRS",
+        "text": "통증 점수"
+      }
+    ],
+    "business": [
+      {
+        "id": "quotation",
+        "ja": "見積書",
+        "text": "견적서"
+      },
+      {
+        "id": "competitive-bid",
+        "ja": "相見積もり",
+        "text": "비교 견적"
+      },
+      {
+        "id": "qualified-invoice",
+        "ja": "インボイス",
+        "text": "적격 청구서"
+      },
+      {
+        "id": "invoice",
+        "ja": "請求書",
+        "text": "청구서"
+      },
+      {
+        "id": "delivery-date",
+        "ja": "納期",
+        "text": "납기"
+      },
+      {
+        "id": "nda",
+        "ja": "秘密保持契約",
+        "text": "비밀유지계약"
+      },
+      {
+        "id": "contract",
+        "ja": "契約書",
+        "text": "계약서"
+      },
+      {
+        "id": "purchase-order",
+        "ja": "発注書",
+        "text": "발주서"
+      },
+      {
+        "id": "milestone",
+        "ja": "マイルストーン",
+        "text": "마일스톤"
+      },
+      {
+        "id": "specification",
+        "ja": "仕様書",
+        "text": "사양서"
+      },
+      {
+        "id": "acceptance",
+        "ja": "検収",
+        "text": "검수"
+      },
+      {
+        "id": "unit-price",
+        "ja": "単価",
+        "text": "단가"
+      },
+      {
+        "id": "bank-transfer",
+        "ja": "振込",
+        "text": "계좌 이체"
+      }
+    ],
+    "travel": [
+      {
+        "id": "otoshi",
+        "ja": "お通し",
+        "text": "기본 안주"
+      },
+      {
+        "id": "limited-express",
+        "ja": "特急",
+        "text": "특급"
+      },
+      {
+        "id": "reserved-seat",
+        "ja": "指定席",
+        "text": "지정석"
+      },
+      {
+        "id": "non-reserved",
+        "ja": "自由席",
+        "text": "자유석"
+      },
+      {
+        "id": "ticket-gate",
+        "ja": "改札",
+        "text": "개찰구"
+      },
+      {
+        "id": "one-way",
+        "ja": "片道",
+        "text": "편도"
+      },
+      {
+        "id": "round-trip",
+        "ja": "往復",
+        "text": "왕복"
+      },
+      {
+        "id": "transfer",
+        "ja": "乗り換え",
+        "text": "환승"
+      },
+      {
+        "id": "private-room",
+        "ja": "個室",
+        "text": "개인실"
+      },
+      {
+        "id": "non-smoking",
+        "ja": "禁煙",
+        "text": "금연"
+      },
+      {
+        "id": "cold-water",
+        "ja": "お冷や",
+        "text": "냉수"
+      },
+      {
+        "id": "allergen-label",
+        "ja": "アレルギー表示",
+        "text": "알레르기 표시"
+      }
+    ]
+  }
+}

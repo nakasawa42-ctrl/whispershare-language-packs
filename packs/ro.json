@@ -1,0 +1,302 @@
+{
+  "id": "ro",
+  "label": "ルーマニア語",
+  "nativeLabel": "Română",
+  "sttLocale": "ro-RO",
+  "ttsVoiceLang": "ro-RO",
+  "scenarios": {
+    "general": [
+      {
+        "id": "konbini",
+        "ja": "コンビニ",
+        "text": "magazin de proximitate"
+      },
+      {
+        "id": "takuhai",
+        "ja": "宅配便",
+        "text": "livrare de colete"
+      },
+      {
+        "id": "mynumber",
+        "ja": "マイナンバー",
+        "text": "număr personal"
+      },
+      {
+        "id": "consumption-tax",
+        "ja": "消費税",
+        "text": "taxă pe consum"
+      }
+    ],
+    "medical": [
+      {
+        "id": "pressure-ulcer",
+        "ja": "褥瘡",
+        "text": "ulcer de presiune"
+      },
+      {
+        "id": "repositioning",
+        "ja": "体位変換",
+        "text": "schimbarea poziției"
+      },
+      {
+        "id": "vital-signs",
+        "ja": "バイタルサイン",
+        "text": "semne vitale"
+      },
+      {
+        "id": "medication-check",
+        "ja": "服薬確認",
+        "text": "verificarea medicamentelor"
+      },
+      {
+        "id": "spo2",
+        "ja": "SpO2",
+        "text": "saturație de oxigen"
+      },
+      {
+        "id": "appetite-loss",
+        "ja": "食欲不振",
+        "text": "lipsa poftei de mâncare"
+      },
+      {
+        "id": "blood-pressure",
+        "ja": "血圧",
+        "text": "tensiune arterială"
+      },
+      {
+        "id": "body-temperature",
+        "ja": "体温",
+        "text": "temperatură corporală"
+      },
+      {
+        "id": "catheter",
+        "ja": "カテーテル",
+        "text": "cateter"
+      },
+      {
+        "id": "insulin",
+        "ja": "インスリン",
+        "text": "insulină"
+      },
+      {
+        "id": "antibiotic",
+        "ja": "抗菌薬",
+        "text": "antibiotic"
+      },
+      {
+        "id": "nurse-call",
+        "ja": "ナースコール",
+        "text": "apel asistentă"
+      },
+      {
+        "id": "swallowing",
+        "ja": "嚥下",
+        "text": "înghițire"
+      },
+      {
+        "id": "aspiration",
+        "ja": "誤嚥",
+        "text": "aspirație"
+      },
+      {
+        "id": "sputum",
+        "ja": "喀痰",
+        "text": "spută"
+      },
+      {
+        "id": "suction",
+        "ja": "吸引",
+        "text": "aspirarea secrețiilor"
+      },
+      {
+        "id": "dressing",
+        "ja": "ドレッシング",
+        "text": "pansament"
+      },
+      {
+        "id": "care-required",
+        "ja": "要介護",
+        "text": "are nevoie de îngrijire"
+      },
+      {
+        "id": "support-required",
+        "ja": "要支援",
+        "text": "are nevoie de sprijin"
+      },
+      {
+        "id": "care-level",
+        "ja": "要介護認定",
+        "text": "evaluarea dependenței"
+      },
+      {
+        "id": "day-service",
+        "ja": "デイサービス",
+        "text": "centru de zi"
+      },
+      {
+        "id": "care-manager",
+        "ja": "ケアマネ",
+        "text": "coordonator de îngrijire"
+      },
+      {
+        "id": "short-stay",
+        "ja": "ショートステイ",
+        "text": "ședere scurtă"
+      },
+      {
+        "id": "medication-book",
+        "ja": "お薬手帳",
+        "text": "carnet de medicamente"
+      },
+      {
+        "id": "history",
+        "ja": "既往歴",
+        "text": "antecedente"
+      },
+      {
+        "id": "allergy",
+        "ja": "アレルギー",
+        "text": "alergie"
+      },
+      {
+        "id": "prescription",
+        "ja": "処方箋",
+        "text": "rețetă"
+      },
+      {
+        "id": "nrs",
+        "ja": "NRS",
+        "text": "scor de durere"
+      }
+    ],
+    "business": [
+      {
+        "id": "quotation",
+        "ja": "見積書",
+        "text": "ofertă de preț"
+      },
+      {
+        "id": "competitive-bid",
+        "ja": "相見積もり",
+        "text": "ofertă comparativă"
+      },
+      {
+        "id": "qualified-invoice",
+        "ja": "インボイス",
+        "text": "factură calificată"
+      },
+      {
+        "id": "invoice",
+        "ja": "請求書",
+        "text": "factură"
+      },
+      {
+        "id": "delivery-date",
+        "ja": "納期",
+        "text": "termen de livrare"
+      },
+      {
+        "id": "nda",
+        "ja": "秘密保持契約",
+        "text": "acord de confidențialitate"
+      },
+      {
+        "id": "contract",
+        "ja": "契約書",
+        "text": "contract"
+      },
+      {
+        "id": "purchase-order",
+        "ja": "発注書",
+        "text": "comandă de achiziție"
+      },
+      {
+        "id": "milestone",
+        "ja": "マイルストーン",
+        "text": "etapă"
+      },
+      {
+        "id": "specification",
+        "ja": "仕様書",
+        "text": "specificație"
+      },
+      {
+        "id": "acceptance",
+        "ja": "検収",
+        "text": "recepție"
+      },
+      {
+        "id": "unit-price",
+        "ja": "単価",
+        "text": "preț unitar"
+      },
+      {
+        "id": "bank-transfer",
+        "ja": "振込",
+        "text": "transfer bancar"
+      }
+    ],
+    "travel": [
+      {
+        "id": "otoshi",
+        "ja": "お通し",
+        "text": "aperitiv cu taxă de loc"
+      },
+      {
+        "id": "limited-express",
+        "ja": "特急",
+        "text": "tren rapid"
+      },
+      {
+        "id": "reserved-seat",
+        "ja": "指定席",
+        "text": "loc rezervat"
+      },
+      {
+        "id": "non-reserved",
+        "ja": "自由席",
+        "text": "loc nerezervat"
+      },
+      {
+        "id": "ticket-gate",
+        "ja": "改札",
+        "text": "poartă de bilete"
+      },
+      {
+        "id": "one-way",
+        "ja": "片道",
+        "text": "doar dus"
+      },
+      {
+        "id": "round-trip",
+        "ja": "往復",
+        "text": "dus-întors"
+      },
+      {
+        "id": "transfer",
+        "ja": "乗り換え",
+        "text": "schimbarea trenului"
+      },
+      {
+        "id": "private-room",
+        "ja": "個室",
+        "text": "cameră privată"
+      },
+      {
+        "id": "non-smoking",
+        "ja": "禁煙",
+        "text": "nefumători"
+      },
+      {
+        "id": "cold-water",
+        "ja": "お冷や",
+        "text": "apă rece gratuită"
+      },
+      {
+        "id": "allergen-label",
+        "ja": "アレルギー表示",
+        "text": "informații despre alergeni"
+      }
+    ]
+  }
+}

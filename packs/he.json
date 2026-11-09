@@ -1,0 +1,302 @@
+{
+  "id": "he",
+  "label": "ヘブライ語",
+  "nativeLabel": "עברית",
+  "sttLocale": "he-IL",
+  "ttsVoiceLang": "he-IL",
+  "scenarios": {
+    "general": [
+      {
+        "id": "konbini",
+        "ja": "コンビニ",
+        "text": "חנות נוחות"
+      },
+      {
+        "id": "takuhai",
+        "ja": "宅配便",
+        "text": "משלוח חבילות"
+      },
+      {
+        "id": "mynumber",
+        "ja": "マイナンバー",
+        "text": "מספר אישי"
+      },
+      {
+        "id": "consumption-tax",
+        "ja": "消費税",
+        "text": "מס צריכה"
+      }
+    ],
+    "medical": [
+      {
+        "id": "pressure-ulcer",
+        "ja": "褥瘡",
+        "text": "פצע לחץ"
+      },
+      {
+        "id": "repositioning",
+        "ja": "体位変換",
+        "text": "שינוי תנוחה"
+      },
+      {
+        "id": "vital-signs",
+        "ja": "バイタルサイン",
+        "text": "סימנים חיוניים"
+      },
+      {
+        "id": "medication-check",
+        "ja": "服薬確認",
+        "text": "בדיקת תרופות"
+      },
+      {
+        "id": "spo2",
+        "ja": "SpO2",
+        "text": "ריווי חמצן"
+      },
+      {
+        "id": "appetite-loss",
+        "ja": "食欲不振",
+        "text": "אובדן תיאבון"
+      },
+      {
+        "id": "blood-pressure",
+        "ja": "血圧",
+        "text": "לחץ דם"
+      },
+      {
+        "id": "body-temperature",
+        "ja": "体温",
+        "text": "חום גוף"
+      },
+      {
+        "id": "catheter",
+        "ja": "カテーテル",
+        "text": "צנתר"
+      },
+      {
+        "id": "insulin",
+        "ja": "インスリン",
+        "text": "אינסולין"
+      },
+      {
+        "id": "antibiotic",
+        "ja": "抗菌薬",
+        "text": "אנטיביוטיקה"
+      },
+      {
+        "id": "nurse-call",
+        "ja": "ナースコール",
+        "text": "קריאת אחות"
+      },
+      {
+        "id": "swallowing",
+        "ja": "嚥下",
+        "text": "בליעה"
+      },
+      {
+        "id": "aspiration",
+        "ja": "誤嚥",
+        "text": "אספירציה"
+      },
+      {
+        "id": "sputum",
+        "ja": "喀痰",
+        "text": "כיח"
+      },
+      {
+        "id": "suction",
+        "ja": "吸引",
+        "text": "שאיבת הפרשות"
+      },
+      {
+        "id": "dressing",
+        "ja": "ドレッシング",
+        "text": "חבישת פצע"
+      },
+      {
+        "id": "care-required",
+        "ja": "要介護",
+        "text": "זקוק לטיפול"
+      },
+      {
+        "id": "support-required",
+        "ja": "要支援",
+        "text": "זקוק לתמיכה"
+      },
+      {
+        "id": "care-level",
+        "ja": "要介護認定",
+        "text": "הערכת רמת טיפול"
+      },
+      {
+        "id": "day-service",
+        "ja": "デイサービス",
+        "text": "טיפול יום"
+      },
+      {
+        "id": "care-manager",
+        "ja": "ケアマネ",
+        "text": "מנהל טיפול"
+      },
+      {
+        "id": "short-stay",
+        "ja": "ショートステイ",
+        "text": "שהות קצרה"
+      },
+      {
+        "id": "medication-book",
+        "ja": "お薬手帳",
+        "text": "פנקס תרופות"
+      },
+      {
+        "id": "history",
+        "ja": "既往歴",
+        "text": "היסטוריה רפואית"
+      },
+      {
+        "id": "allergy",
+        "ja": "アレルギー",
+        "text": "אלרגיה"
+      },
+      {
+        "id": "prescription",
+        "ja": "処方箋",
+        "text": "מרשם"
+      },
+      {
+        "id": "nrs",
+        "ja": "NRS",
+        "text": "ציון כאב"
+      }
+    ],
+    "business": [
+      {
+        "id": "quotation",
+        "ja": "見積書",
+        "text": "הצעת מחיר"
+      },
+      {
+        "id": "competitive-bid",
+        "ja": "相見積もり",
+        "text": "הצעת מחיר להשוואה"
+      },
+      {
+        "id": "qualified-invoice",
+        "ja": "インボイス",
+        "text": "חשבונית מאושרת"
+      },
+      {
+        "id": "invoice",
+        "ja": "請求書",
+        "text": "חשבונית"
+      },
+      {
+        "id": "delivery-date",
+        "ja": "納期",
+        "text": "מועד אספקה"
+      },
+      {
+        "id": "nda",
+        "ja": "秘密保持契約",
+        "text": "הסכם סודיות"
+      },
+      {
+        "id": "contract",
+        "ja": "契約書",
+        "text": "חוזה"
+      },
+      {
+        "id": "purchase-order",
+        "ja": "発注書",
+        "text": "הזמנת רכש"
+      },
+      {
+        "id": "milestone",
+        "ja": "マイルストーン",
+        "text": "אבן דרך"
+      },
+      {
+        "id": "specification",
+        "ja": "仕様書",
+        "text": "מפרט"
+      },
+      {
+        "id": "acceptance",
+        "ja": "検収",
+        "text": "קבלה"
+      },
+      {
+        "id": "unit-price",
+        "ja": "単価",
+        "text": "מחיר ליחידה"
+      },
+      {
+        "id": "bank-transfer",
+        "ja": "振込",
+        "text": "העברה בנקאית"
+      }
+    ],
+    "travel": [
+      {
+        "id": "otoshi",
+        "ja": "お通し",
+        "text": "מנת פתיחה בתשלום"
+      },
+      {
+        "id": "limited-express",
+        "ja": "特急",
+        "text": "רכבת מהירה"
+      },
+      {
+        "id": "reserved-seat",
+        "ja": "指定席",
+        "text": "מושב שמור"
+      },
+      {
+        "id": "non-reserved",
+        "ja": "自由席",
+        "text": "מושב לא שמור"
+      },
+      {
+        "id": "ticket-gate",
+        "ja": "改札",
+        "text": "שער כרטיסים"
+      },
+      {
+        "id": "one-way",
+        "ja": "片道",
+        "text": "כיוון אחד"
+      },
+      {
+        "id": "round-trip",
+        "ja": "往復",
+        "text": "הלוך ושוב"
+      },
+      {
+        "id": "transfer",
+        "ja": "乗り換え",
+        "text": "החלפת רכבת"
+      },
+      {
+        "id": "private-room",
+        "ja": "個室",
+        "text": "חדר פרטי"
+      },
+      {
+        "id": "non-smoking",
+        "ja": "禁煙",
+        "text": "אסור לעשן"
+      },
+      {
+        "id": "cold-water",
+        "ja": "お冷や",
+        "text": "מים קרים חינם"
+      },
+      {
+        "id": "allergen-label",
+        "ja": "アレルギー表示",
+        "text": "מידע על אלרגנים"
+      }
+    ]
+  }
+}
